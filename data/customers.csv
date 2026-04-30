@@ -1,0 +1,2001 @@
+person_id,name,current_school
+0,Denise Jarvis,Duarte-Paul School
+1,Christopher Bell,Chase Group School
+2,Anthony Downs,"Hamilton, Williams and Weaver School"
+3,Alexandria Romero,Walker-Anderson School
+4,Chelsea Johnson,Bird-Larsen School
+5,Michael Perry,Beck-Reyes School
+6,Mary Marsh,Cummings PLC School
+7,Nicole Briggs,"Patton, Wilson and Weber School"
+8,Carol Steele,"Cox, Chavez and Davis School"
+9,Kevin Patton,"Bonilla, Hart and Green School"
+10,David Francis,"Armstrong, Davis and Bean School"
+11,Desiree Stewart,Parker-Lewis School
+12,Brianna Vega,Edwards Group School
+13,Manuel Monroe,"Murphy, Smith and Hill School"
+14,Maureen Russell,Jones Group School
+15,Matthew Short,Ward Inc School
+16,Tammy Bowen,"Petty, Conrad and Hodges School"
+17,Stephanie Barber,"Bonilla, Hart and Green School"
+18,Cynthia Johnston,"Smith, Hopkins and Olson School"
+19,Krystal Williams,Bauer Inc School
+20,Jennifer Moore,"Brown, Banks and Reyes School"
+21,Marc Robertson,Murray-Morales School
+22,Tracey Johns,Hampton-Lang School
+23,Anthony Mason,Ramirez Inc School
+24,Melinda Lloyd,Barber PLC School
+25,Don Taylor,"Hale, Thomas and Price School"
+26,Ashley Gibson,"Dunn, Garcia and Ward School"
+27,Sherri Butler,Harris and Sons School
+28,Kristen Holloway,Mason-Arnold School
+29,Justin Hall,"Thomas, Shelton and Rivera School"
+30,Angela Walker,Duke-Waller School
+31,Michael Chavez,Martinez Ltd School
+32,Philip Crawford,"Thomas, Barrera and Wiggins School"
+33,Diane Young,Hampton-Lang School
+34,Alicia Welch,"Arellano, Lewis and Lawson School"
+35,Ryan Evans,"Hale, Thomas and Price School"
+36,Albert Duran,Baldwin-Andrews School
+37,Jonathan Lindsey,"Murphy, Smith and Hill School"
+38,William Owen,Garcia Inc School
+39,Amber Willis,Barber PLC School
+40,Matthew Stevens,Carrillo LLC School
+41,Ryan Crawford,King-Gomez School
+42,James Reyes,Chaney Ltd School
+43,Nicholas Conway,Franco-Baker School
+44,Andrea Mills,Hill-Bell School
+45,Mr. Scott Franklin,Leblanc-Nelson School
+46,Kathy Wilson,Hicks-Johnson School
+47,Carla Griffin,Henderson-Schneider School
+48,Pamela Page,Jackson Group School
+49,Michael Christian,Murray-Morales School
+50,Kylie Neal,Garcia Inc School
+51,Jennifer Butler,Matthews Group School
+52,James Leblanc,"Bailey, Ortiz and Brooks School"
+53,James Yates,Hampton-Lang School
+54,Angela Lyons,Compton-Ross School
+55,James Holmes,Johnson-Johnson School
+56,Robert Robles,"Cox, Chavez and Davis School"
+57,Stanley Jones,Beck-Reyes School
+58,Angela Harris,Velasquez-Zamora School
+59,Tanner Garcia,Chaney Ltd School
+60,Danielle Allen,Gonzalez-Cole School
+61,Kirk Stout,"Thompson, Mcgrath and Rice School"
+62,Casey Lynch,Roberts-Green School
+63,Terri Elliott,"Thomas, Shelton and Rivera School"
+64,Jasmin Frost,Duarte-Paul School
+65,Sarah Ellison,Smith Group School
+66,Kevin Mitchell,Parker-Lewis School
+67,Kevin Butler,"Armstrong, Davis and Bean School"
+68,Tammy Larson,"Dunn, Garcia and Ward School"
+69,Vanessa Gibson,Hampton-Lang School
+70,Tyler Shields,"Arellano, Lewis and Lawson School"
+71,Leslie Garcia,Rangel PLC School
+72,Patricia White,Martinez Group School
+73,Jessica Duffy MD,"Wiley, Phillips and Johnson School"
+74,Sean Smith,Leblanc-Nelson School
+75,Jennifer Miller,"Whitaker, Harris and Conley School"
+76,Tony Shah,"Roach, Sanders and Barrett School"
+77,Timothy Martin,"Thompson, Green and Martinez School"
+78,James Richardson,Beck-Reyes School
+79,Elizabeth Stout,Hampton-Lang School
+80,Tyler Harmon,Boyd LLC School
+81,Alison Gibson,Edwards Group School
+82,Hannah Jennings,Chaney Ltd School
+83,Kenneth Hudson,Weeks-Cabrera School
+84,Steven Banks,"Murphy, Smith and Hill School"
+85,Amy Adams,Cervantes Inc School
+86,Richard Jones,"Thomas, Barrera and Wiggins School"
+87,James Pierce,Paul PLC School
+88,Thomas Brown,Woods-Rivera School
+89,Mercedes Johnson,Young Inc School
+90,Carla Gonzalez,"Horn, Hernandez and Carter School"
+91,Catherine Johnson,Jackson Group School
+92,Linda Lang,Newman Inc School
+93,Jeffrey Williams,Castillo-James School
+94,Jennifer Hall,Austin-Roberson School
+95,Megan Thompson,Chaney Ltd School
+96,Lee Rivera,"Thompson, Green and Martinez School"
+97,Jeffrey Harmon,"Roach, Sanders and Barrett School"
+98,Melvin Harding,"Wiley, Phillips and Johnson School"
+99,Dawn Wolf,Boyd LLC School
+100,Anthony Morris,George and Sons School
+101,Michael Patton,Matthews Group School
+102,Michael Arellano,"Armstrong, Davis and Bean School"
+103,Michael Rodriguez,"Thomas, Shelton and Rivera School"
+104,James Collins,"Thomas, Barrera and Wiggins School"
+105,Bradley Klein,Wheeler Inc School
+106,James Diaz,Hall Group School
+107,Ryan Thompson,"Mitchell, Harper and Wood School"
+108,Erin Bonilla,Shannon Inc School
+109,Kaitlyn Williams,"Hill, Stout and Gonzalez School"
+110,Thomas Munoz,Boyd LLC School
+111,Susan Hampton,"Ruiz, Chambers and Ward School"
+112,Sean Bennett,Dominguez-Jones School
+113,Jamie Bass,Spears-Moore School
+114,Michaela Hawkins,"Armstrong, Davis and Bean School"
+115,Theresa Smith,Martinez Ltd School
+116,Benjamin Maldonado,"Hale, Thomas and Price School"
+117,Jennifer Vega,Jones PLC School
+118,Gwendolyn Williams,Henderson-Schneider School
+119,Theresa Delgado,Patterson-Parker School
+120,James Cummings,"Whitaker, Harris and Conley School"
+121,Kevin Washington,Bauer Inc School
+122,Joshua Griffin,Bass-Price School
+123,Ian Lewis,Shannon Inc School
+124,Mary Bishop,Paul PLC School
+125,Malik Dean,"Smith, Hopkins and Olson School"
+126,Jose Chandler,Baldwin-Andrews School
+127,Brenda Williams,Fox PLC School
+128,James Smith,"Horn, Hernandez and Carter School"
+129,Brad Harris,Barber PLC School
+130,Matthew Smith,Stewart-Thompson School
+131,Mary Cabrera,"Shaw, Dickerson and Roberts School"
+132,Rebecca Schmidt,Brandt-Rivera School
+133,Julie Howard,King-Gomez School
+134,Stephen Baker,Fletcher and Sons School
+135,David Alexander,Stewart-Thompson School
+136,David Harris,Nelson and Sons School
+137,John Flores,Duarte-Paul School
+138,Jason Holmes,Beck-Reyes School
+139,Veronica Lee,Cervantes Inc School
+140,William Austin,Austin-Roberson School
+141,Stanley Martin,Compton-Ross School
+142,Tamara Atkins,Edwards Group School
+143,Derek Dalton,"Williams, Stark and Watkins School"
+144,Christopher Brown,Mccoy PLC School
+145,Tracy Serrano,Williams-Harris School
+146,Dr. Katherine Garcia,Mccoy PLC School
+147,Anthony Martin,Wells Group School
+148,Ronald Grant,Medina-Cordova School
+149,Richard Torres,Bird-Larsen School
+150,John Murray,Johnson-Johnson School
+151,Robert Ramirez,"Dunn, Garcia and Ward School"
+152,Michael Oliver,Wheeler Inc School
+153,Joyce Gallegos,Hampton-Lang School
+154,Dustin Wyatt,Brady-King School
+155,Christina Hughes,Newman Inc School
+156,Mark Riley,Hampton-Lang School
+157,Adam Cabrera,Diaz-Patterson School
+158,Mr. Brandon Martin DVM,Morris-Bush School
+159,Kenneth Forbes,Cummings PLC School
+160,Mike Wells,Fox PLC School
+161,Kimberly Howard,Garcia Inc School
+162,Frank Jones,Martinez Ltd School
+163,Sandra Palmer,"Fox, Gardner and Davis School"
+164,Lisa Gutierrez,"Cox, Chavez and Davis School"
+165,Douglas Perez,Hampton-Lang School
+166,Jeremy Ochoa,Smith Group School
+167,Kristina Hopkins,Martinez Group School
+168,Amber Choi,Henderson-Schneider School
+169,Patrick Cole,King-Gomez School
+170,Emily Benson,Ellis LLC School
+171,Jared Jones,Jones Group School
+172,Riley Kim,"Hamilton, Williams and Weaver School"
+173,Christina Watts,"Petty, Conrad and Hodges School"
+174,Angela Warner,Diaz-Patterson School
+175,Charles Wallace,Barber PLC School
+176,Tanner Harrison,"Smith, Hopkins and Olson School"
+177,Eric Carey,Bass-Price School
+178,Trevor Greer,"Bailey, Ortiz and Brooks School"
+179,Karen Kim,Hartman Group School
+180,Shane Conner,Williams-Harris School
+181,Tara Fox,Morris-Bush School
+182,Dana Adams,Parker-Lewis School
+183,Julia Armstrong,"Shaw, Dickerson and Roberts School"
+184,Ronald Brooks,Fletcher and Sons School
+185,Eric Phillips,"Williams, Stark and Watkins School"
+186,Jacqueline Dickerson,Berry-Edwards School
+187,Ryan Miller,Ramirez Inc School
+188,Cynthia Cantu,Chase Group School
+189,Samantha Ortiz,Chaney Ltd School
+190,John Smith,Cox Inc School
+191,Dylan Fischer,Ellis LLC School
+192,Erica Jackson,"Thompson, Mcgrath and Rice School"
+193,Ashley Martinez,"Ruiz, Chambers and Ward School"
+194,Ellen Francis,Cox Inc School
+195,Mr. Paul Wade DDS,Gonzalez-Cole School
+196,James Mercado,Choi-Glass School
+197,Timothy Lawrence,Roberts-Green School
+198,Julie Garrett,Shannon Inc School
+199,Joseph Stout,Nelson and Sons School
+200,Kelly Green,Berry-Edwards School
+201,Beth Clark,Smith Group School
+202,Leslie Green,Henderson-Schneider School
+203,Mary Mendoza,"Thompson, Green and Martinez School"
+204,Bradley Guzman,Henderson-Schneider School
+205,Kimberly Hubbard,Shannon Inc School
+206,Jacob Green,Gray and Sons School
+207,Sherry Leach,"Guerrero, Fowler and Estrada School"
+208,Stephanie Avila,Jackson Group School
+209,Amy Brooks,Woods-Rivera School
+210,Melissa Jones,"Brown, Banks and Reyes School"
+211,Shirley Grimes,Jones PLC School
+212,Antonio Phillips,Jackson Group School
+213,Matthew Sullivan,Dominguez-Jones School
+214,Katherine Williamson,Compton-Ross School
+215,David Wyatt,Johnson-Delgado School
+216,David Garcia,Brandt-Rivera School
+217,Richard Smith,Jones Group School
+218,Donald King,"Cox, Chavez and Davis School"
+219,Richard Park,Murphy-Hardy School
+220,Brittany Duffy,Nelson and Sons School
+221,Regina Phillips,"Dunn, Garcia and Ward School"
+222,Crystal White,Gonzalez-Cole School
+223,Casey Cox,"Bailey, Ortiz and Brooks School"
+224,James Espinoza,Newman Inc School
+225,Erin Sharp,Bass-Price School
+226,Derek Obrien,Williams-Harris School
+227,Ronald King,"Williams, Stark and Watkins School"
+228,Sarah Montgomery,"Chambers, Clark and Johnson School"
+229,Elizabeth Cortez DVM,"Cox, Chavez and Davis School"
+230,Kayla Miller,Gonzalez-Cole School
+231,Mike Benson,"Ruiz, Chambers and Ward School"
+232,Joshua Clark,Dominguez-Jones School
+233,Joshua Howard,Newman Inc School
+234,Tyler Morales,Medina-Cordova School
+235,Amanda Edwards,Nelson and Sons School
+236,Timothy Lyons,"Ruiz, Chambers and Ward School"
+237,Nicholas Jackson,"Shaw, Dickerson and Roberts School"
+238,Kathryn Baker,Rangel PLC School
+239,Gary Horne,"Murphy, Smith and Hill School"
+240,Lisa Walker,"Ruiz, Chambers and Ward School"
+241,Rachel Mack,"Cox, Chavez and Davis School"
+242,Eduardo Warren,Jones PLC School
+243,Sabrina Skinner,Mason-Arnold School
+244,April Jenkins,Austin-Roberson School
+245,Lisa Ortiz,"Ruiz, Chambers and Ward School"
+246,Jessica Johnson,Franco-Baker School
+247,Jason Davis DDS,Rangel PLC School
+248,Tanya Cox,Fox PLC School
+249,Jill Schmidt,Young Inc School
+250,Shelly Anderson,Cervantes Inc School
+251,Michael Obrien,White-Leblanc School
+252,Rodney Taylor,"Dunn, Garcia and Ward School"
+253,Anthony Miles,"Dunn, Garcia and Ward School"
+254,Amy Powers,Barber PLC School
+255,Barbara Thompson,Cummings PLC School
+256,Robert Avery,Fox PLC School
+257,Judy Mora,"Brown, Banks and Reyes School"
+258,Alan Walker,"Kelly, Ortiz and Carney School"
+259,Stacy Johnson,"Ruiz, Chambers and Ward School"
+260,Christopher Jenkins,"Guerrero, Fowler and Estrada School"
+261,Kyle Hernandez,"Cox, Chavez and Davis School"
+262,Michael Anderson,Walker-Anderson School
+263,Amy Acosta,Hampton-Lang School
+264,Pamela Ward,Weeks-Cabrera School
+265,Laura Fisher,Medina-Cordova School
+266,Joseph Evans,Paul PLC School
+267,Jennifer Garcia,"Cox, Chavez and Davis School"
+268,Jennifer Johnson,Williams Ltd School
+269,Barbara Parks,Brandt-Rivera School
+270,Travis Harper,Bauer Inc School
+271,Angela Evans,White-Leblanc School
+272,Amber Carter,Baldwin-Andrews School
+273,Alyssa Conley,"Armstrong, Davis and Bean School"
+274,Brian Mendoza,Murphy-Hardy School
+275,Lori Hunter,Johnson-Johnson School
+276,Mr. Johnny Huber,Bass-Price School
+277,Jenny Williams,Franco-Baker School
+278,Michael Garcia MD,Newman Inc School
+279,Joshua Cook,Walker-Anderson School
+280,Adam Acevedo,Mason-Arnold School
+281,Jasmine Higgins,Medina-Cordova School
+282,Madison Taylor,"Thomas, Barrera and Wiggins School"
+283,Miranda Haynes,Bauer Inc School
+284,Angela Brown,Williams-Harris School
+285,Lisa Williams,Medina-Cordova School
+286,Savannah Rivera,Chase Group School
+287,Douglas Nelson,Choi-Glass School
+288,Corey Aguilar,"Bonilla, Hart and Green School"
+289,Nancy Wu,Rangel PLC School
+290,Amy Williams,Wells Group School
+291,Alexander Lopez,Davis-Hernandez School
+292,Robert Gordon,Stewart-Thompson School
+293,Lisa Martin,"Ruiz, Chambers and Ward School"
+294,Mary Yu,Martinez Group School
+295,Michelle Vaughn,Chaney Ltd School
+296,John Hernandez,Norris Inc School
+297,Jennifer Bryan,Hill-Bell School
+298,Laura Thompson,"Wiley, Phillips and Johnson School"
+299,Caleb Cameron,"Mitchell, Harper and Wood School"
+300,David Edwards,Gutierrez-Booth School
+301,Dylan Hebert,"Thompson, Mcgrath and Rice School"
+302,Wendy Burgess,Brady-King School
+303,Sandra Juarez,Young Inc School
+304,Darren Bennett,Cox Inc School
+305,Rita Jones,Woods-Rivera School
+306,Rebecca Wright,Austin-Roberson School
+307,Adam Hartman,Matthews Group School
+308,Charles Strickland,King-Gomez School
+309,Patricia Mason,Brandt-Rivera School
+310,Jasmine Garner,Dominguez-Jones School
+311,Julie Collins,Medina-Cordova School
+312,Troy Evans,Newman Inc School
+313,Sarah Wright,Leblanc-Nelson School
+314,Elizabeth Mills,Roach-Hartman School
+315,Crystal Jones,Beck-Reyes School
+316,Jane Fernandez,Fox PLC School
+317,Chad Fuller,Hill-Bell School
+318,Dennis Ballard,Franco-Baker School
+319,Christopher Davis,Gonzalez-Cole School
+320,Jessica Krueger,Cunningham and Sons School
+321,Brian Perkins,Woods-Rivera School
+322,Joshua Edwards,"Lewis, Peterson and Wade School"
+323,Lisa Lang,"Armstrong, Davis and Bean School"
+324,Julie Banks,Duarte-Paul School
+325,Ana Mcdonald,Boyd LLC School
+326,Jennifer Thomas,Chase Group School
+327,Amanda Taylor,Jones Group School
+328,Amy Hall,Franco-Baker School
+329,Michelle Bernard,Cox Inc School
+330,Sarah Bryant,Hampton-Lang School
+331,Erin Dickson,Johnson-Johnson School
+332,Nathan Sanchez,Murray-Morales School
+333,Michael Davis,Mccoy PLC School
+334,Ian Smith,Rangel PLC School
+335,Matthew Griffin,Chase Group School
+336,Katie Howard,Martinez Ltd School
+337,Kristin Bush,Barber PLC School
+338,Jennifer Fuller,Cervantes Inc School
+339,Christina Spencer,Patterson-Parker School
+340,Jessica Davidson,Chase Group School
+341,Caleb Marshall,Gonzalez-Cole School
+342,Andrew Mitchell,Cummings PLC School
+343,Cheyenne Mata,Berry-Edwards School
+344,Steve Howard,Cervantes Inc School
+345,Emily Lowery,Ellis LLC School
+346,Jacob Lane,Castillo-James School
+347,Sean Wheeler,Woods-Rivera School
+348,Annette Perez PhD,Jones PLC School
+349,Marc Nichols,Fox PLC School
+350,Brittany Wood DVM,"Wiley, Phillips and Johnson School"
+351,Amy Smith,Parker-Lewis School
+352,Joseph Manning,Hampton-Lang School
+353,Justin Watkins,Bird-Larsen School
+354,Robin Rodriguez,Cox Inc School
+355,Jack Hopkins,Choi-Glass School
+356,Matthew Roth,Hicks-Johnson School
+357,Natasha Garcia,Medina-Cordova School
+358,Nicole Leach,Bauer Inc School
+359,Christina Hamilton,Wheeler Inc School
+360,Kaitlyn Johnston,Hampton-Lang School
+361,Sara Richmond,Fox PLC School
+362,Tiffany David,"Whitaker, Harris and Conley School"
+363,James Davila,Chaney Ltd School
+364,Jennifer Herrera,Ramirez Inc School
+365,Ashley Hopkins,Patterson-Parker School
+366,Curtis Nichols,Lewis Inc School
+367,Holly Lee,Wheeler Inc School
+368,Patrick Guzman,Dominguez and Sons School
+369,Justin Thomas,Cummings PLC School
+370,Brett Hall,Hicks-Johnson School
+371,Mary Daniels,Hampton-Lang School
+372,Morgan Hunt,Martinez Group School
+373,Allison Williams,Barber PLC School
+374,Robert Stanton,Johnson-Delgado School
+375,Karen Phillips,"Whitaker, Harris and Conley School"
+376,Lauren Nguyen,Spears-Moore School
+377,Latoya Mcconnell,Martinez Ltd School
+378,Katherine Juarez,Compton-Ross School
+379,Matthew Reeves,Rangel PLC School
+380,Barbara Singh,Morris-Bush School
+381,Matthew Porter,Gray and Sons School
+382,Elizabeth Clements,"Chambers, Clark and Johnson School"
+383,Maureen Gomez,"Bailey, Ortiz and Brooks School"
+384,Mary Alvarado,Austin-Roberson School
+385,Robin Cervantes,Newman Inc School
+386,Franklin Clark,"Bonilla, Hart and Green School"
+387,Darren Rivera,Rangel PLC School
+388,Savannah Johnson,Bird-Larsen School
+389,David Garcia DDS,"Ruiz, Chambers and Ward School"
+390,Donald Rivera,"Thomas, Shelton and Rivera School"
+391,Jessica Gonzalez,Johnson-Delgado School
+392,Shawn Rosario,"Whitaker, Harris and Conley School"
+393,Travis Bell,Bauer Inc School
+394,Jacqueline Gibson,Roberts-Green School
+395,Lee Anderson,Austin-Roberson School
+396,Melvin Rasmussen,Rangel PLC School
+397,Kimberly Leonard,Berry-Edwards School
+398,Jeffrey Cole,Murray-Morales School
+399,Martha Alvarez,Duke-Waller School
+400,Brandi Mcpherson,Chase Group School
+401,Casey Perry,Williams Ltd School
+402,Daniel Morris,Morris-Bush School
+403,Lawrence Pitts,Newman Inc School
+404,Anna Nelson,"Bailey, Ortiz and Brooks School"
+405,Michael White,Hill-Bell School
+406,Sabrina Wright,Roberts-Green School
+407,David Jones,George and Sons School
+408,Sharon Johnson,Ward Inc School
+409,Erin Ingram,Cox Inc School
+410,Kelly Leonard,Martinez Group School
+411,Anthony Robinson,White-Leblanc School
+412,Glen Tucker,Parker-Lewis School
+413,Christopher Chung,Ramirez Inc School
+414,Nicholas Ochoa,Jones PLC School
+415,Lisa Stewart,Jones PLC School
+416,Justin Wall,Walker-Anderson School
+417,Brandy Powers,Davis-Hernandez School
+418,Stephanie Anderson,"Hill, Stout and Gonzalez School"
+419,Carl Dennis,Hill-Bell School
+420,Mrs. Meredith Allen DDS,Martinez Ltd School
+421,Jonathan Beck,"Cox, Chavez and Davis School"
+422,Nicole Huffman,Stewart-Thompson School
+423,Michael Christian,"Horn, Hernandez and Carter School"
+424,Natalie Santos,Bass-Price School
+425,Kayla Moore,Young Inc School
+426,Matthew Delacruz,Jones Group School
+427,Dustin Mclaughlin,Dominguez-Jones School
+428,Jodi Hall,"Whitaker, Harris and Conley School"
+429,Jessica Williamson,Choi-Glass School
+430,Nicholas Chavez,Woods-Rivera School
+431,Gary Maynard,Austin-Roberson School
+432,Jacqueline Cooper,Carrillo LLC School
+433,John Schneider,Choi-Glass School
+434,Angela Mendez,"Cox, Chavez and Davis School"
+435,Rhonda Hopkins,Rangel PLC School
+436,Randall Sellers,"Hamilton, Williams and Weaver School"
+437,Brady Murray,Parker-Lewis School
+438,Daniel Harvey,Davis-Hernandez School
+439,Vincent Wilson,Carrillo LLC School
+440,Dr. Valerie Todd,"Thomas, Barrera and Wiggins School"
+441,Andre Barker,Martinez Group School
+442,Nicholas George DVM,"Patton, Wilson and Weber School"
+443,Kristin Baker,Paul PLC School
+444,Joshua Rice,Beck-Reyes School
+445,Eugene Rocha,Murphy-Hardy School
+446,Mr. Brian Ramirez,"Dunn, Garcia and Ward School"
+447,Allison Hall,"Williams, Stark and Watkins School"
+448,Brent Holt,"Ruiz, Chambers and Ward School"
+449,Andrea Jackson,Mccoy PLC School
+450,Jonathan Huff,Gutierrez-Booth School
+451,Heather Ashley,Young Inc School
+452,Alice Clark,"Thomas, Barrera and Wiggins School"
+453,Mark Long,Fletcher and Sons School
+454,Edward Arroyo,Smith Group School
+455,Eric Turner,Cummings PLC School
+456,Kathryn Hunter,Ramirez Inc School
+457,Joseph Alvarez,Walker-Anderson School
+458,Jessica Cooley,Duarte-Paul School
+459,Andrew Mcmillan,White-Leblanc School
+460,James Johnson,Roach-Hartman School
+461,Kristen Church,Carrillo LLC School
+462,Roy Moore,Barber PLC School
+463,Michele Lawson,Carrillo LLC School
+464,Amanda Herrera,Woods-Rivera School
+465,Laura Gibson,Dominguez and Sons School
+466,Amy Martinez,"Bailey, Ortiz and Brooks School"
+467,Andrew Jimenez,"Brooks, Thompson and Neal School"
+468,Donna Novak,"Hale, Thomas and Price School"
+469,Mitchell Reed,Nelson and Sons School
+470,Dan Munoz,Murray-Morales School
+471,Kaitlin Nunez,Roach-Hartman School
+472,Michael Choi,"Lewis, Peterson and Wade School"
+473,Morgan Ross,Compton-Ross School
+474,Jeff White,Newman Inc School
+475,Kayla Smith,Barber PLC School
+476,Lawrence Garcia,Young Inc School
+477,Ronald White,Leblanc-Nelson School
+478,Erica Payne,"Whitaker, Harris and Conley School"
+479,Molly Hoffman,Shannon Inc School
+480,Marie Walker,Beck-Reyes School
+481,Elizabeth Wong,Fletcher and Sons School
+482,Elizabeth Patterson,Martinez Group School
+483,Stephen Rangel,Ward Inc School
+484,Andrew Ortiz,Beck-Reyes School
+485,Robert Carter,"Bonilla, Hart and Green School"
+486,Dana Graves,"Murphy, Smith and Hill School"
+487,Anthony Hernandez,"Bonilla, Hart and Green School"
+488,Kenneth Martinez,Wheeler Inc School
+489,Brooke Byrd,Wheeler Inc School
+490,Tina Chambers,Hampton-Lang School
+491,Jason Gallagher,Roach-Hartman School
+492,Jerry Bond,"Murphy, Smith and Hill School"
+493,Kathryn Aguilar,Hartman Group School
+494,Julie Adams,Newman Inc School
+495,Curtis Cole,Shannon Inc School
+496,Frank Hernandez,Ramirez Inc School
+497,Jonathan Richardson,Harris and Sons School
+498,Mr. Scott Montgomery,Chase Group School
+499,Mark Ward,Stewart-Thompson School
+500,Anthony Rodgers,Austin-Roberson School
+501,Lori Taylor,"Williams, Stark and Watkins School"
+502,Luke Hood,Matthews Group School
+503,Mark Duke,"Lewis, Peterson and Wade School"
+504,Cindy Watkins,Bass-Price School
+505,Jacob Parker,"Bonilla, Hart and Green School"
+506,Erika Matthews,Boyd LLC School
+507,Michael Jones,Cunningham and Sons School
+508,Jaime Waters MD,Williams-Harris School
+509,Anthony Sosa,Chase Group School
+510,Lauren Bauer,Harris and Sons School
+511,Wendy Burns,Chaney Ltd School
+512,Dr. Richard Smith Jr.,Chaney Ltd School
+513,Denise Skinner,Jones Group School
+514,Miguel Gonzales,Austin-Roberson School
+515,Sara Jones,Hampton-Lang School
+516,Aaron Guerra,Velasquez-Zamora School
+517,Jessica Silva,Cunningham and Sons School
+518,Shane Ashley,George and Sons School
+519,Brenda Evans,Castillo-James School
+520,Rachel Bullock,Medina-Cordova School
+521,Emily Hansen,"Hill, Stout and Gonzalez School"
+522,Nichole Williams,Rangel PLC School
+523,Michael Roth,"Whitaker, Harris and Conley School"
+524,Brian Hunt,Spears-Moore School
+525,Phyllis Larson,Cervantes Inc School
+526,Mary Chang,"Murphy, Smith and Hill School"
+527,Christopher Sanchez,"Dunn, Garcia and Ward School"
+528,James Maldonado,Dominguez and Sons School
+529,Scott Crawford,Martinez Ltd School
+530,Richard Allison,Wells Group School
+531,Jessica Hoffman,King-Gomez School
+532,Jack Keller,Strong and Sons School
+533,Joshua Wilson,"Shaw, Dickerson and Roberts School"
+534,Nicholas Campbell,Ward Inc School
+535,Christopher Gardner,Paul PLC School
+536,Crystal Shaffer,Harris and Sons School
+537,Diana Fields,Davis-Hernandez School
+538,Timothy Frost,Nelson and Sons School
+539,Mary Tyler,"Fox, Gardner and Davis School"
+540,Mark Johnson,Strong and Sons School
+541,Gary Phillips,Ellis LLC School
+542,Thomas Coleman,Martinez Ltd School
+543,Jeremy Little,"Arellano, Lewis and Lawson School"
+544,Lee Mcneil,Brady-King School
+545,Paul Martinez,Matthews Group School
+546,Kevin Mullen,Mccoy PLC School
+547,Leslie Wolfe,"Kelly, Ortiz and Carney School"
+548,Glen Rasmussen,Franco-Baker School
+549,Eric Miller,Henderson-Schneider School
+550,Nicholas Barnes,Walker-Anderson School
+551,Sandra Parker,Stewart-Thompson School
+552,John Collins,"Cox, Chavez and Davis School"
+553,Anthony Luna,Shannon Inc School
+554,Richard Garcia,Hartman Group School
+555,Austin Miller,White-Leblanc School
+556,Robert Holmes,Garcia Inc School
+557,Kathy Morton,Hicks-Johnson School
+558,Matthew Washington,Bird-Larsen School
+559,James Stevens,Velasquez-Zamora School
+560,Marcus Yoder,"Williams, Spencer and Cooper School"
+561,Timothy Moody,Dominguez-Jones School
+562,Sarah Daniel,Medina-Cordova School
+563,Erica Miller,Mason-Arnold School
+564,David Reyes,Jackson Group School
+565,Andrew Davis,Cox Inc School
+566,Lisa Perez,Chase Group School
+567,Steve Clark,"Bailey, Ortiz and Brooks School"
+568,David Smith,Barber PLC School
+569,Angela Hartman,Gray and Sons School
+570,Danielle Medina,Walker-Anderson School
+571,Deborah Shaw,"Brown, Banks and Reyes School"
+572,Robert Mueller,"Thomas, Shelton and Rivera School"
+573,Ashley Johnson,Ramirez Inc School
+574,Aaron Booth,"Arellano, Lewis and Lawson School"
+575,Karen Martinez,Young Inc School
+576,Allison Rowe,Choi-Glass School
+577,Nicole Ramsey,Garcia Inc School
+578,Dalton Reyes,"Hill, Stout and Gonzalez School"
+579,Anthony Mccormick,"Patton, Wilson and Weber School"
+580,Kimberly Johnson,Medina-Cordova School
+581,Joshua Bennett,Harris and Sons School
+582,Michael Guzman,Jones PLC School
+583,Timothy Scott,"Wiley, Phillips and Johnson School"
+584,Cindy Patterson,Compton-Ross School
+585,Bryan Randall,"Armstrong, Davis and Bean School"
+586,Shelby Alvarez,Duke-Waller School
+587,Joel Collins,Johnson-Johnson School
+588,Christine Richardson,Franco-Baker School
+589,Tyler Burnett,"Roach, Sanders and Barrett School"
+590,Tiffany Baird,Norris Inc School
+591,Stephen Marsh,Henderson-Schneider School
+592,Gregory Reed,Medina-Cordova School
+593,Stephanie Pacheco,"Roach, Sanders and Barrett School"
+594,Megan Adams,Johnson-Johnson School
+595,Amy Peck,Morris-Bush School
+596,David Johnson,Walker-Anderson School
+597,Daniel Campbell,"Brooks, Thompson and Neal School"
+598,Douglas Pennington,Johnson-Delgado School
+599,Rachel Singh,Chase Group School
+600,Kara Pratt,"Hill, Stout and Gonzalez School"
+601,Scott Patterson,"Hamilton, Williams and Weaver School"
+602,Ashley West,Boyd LLC School
+603,Andrew Rivera,"Whitaker, Harris and Conley School"
+604,Gary Jones,Bauer Inc School
+605,Paula Harris,"Brown, Banks and Reyes School"
+606,Austin Edwards,Brandt-Rivera School
+607,Anna Cook,Williams Ltd School
+608,Ralph Stewart,"Ruiz, Chambers and Ward School"
+609,Danielle Williams,Johnson-Delgado School
+610,Tanya Peterson,Paul PLC School
+611,Lonnie Torres,Walker-Anderson School
+612,Lisa Vaughn,Velasquez-Zamora School
+613,Amy Hahn,Duke-Waller School
+614,Jacob Taylor,Parker-Lewis School
+615,Michael Mcknight,"Brown, Banks and Reyes School"
+616,Heather Nichols,"Patton, Wilson and Weber School"
+617,Brenda Cohen,Parker-Lewis School
+618,Jeffery Fletcher,Henderson-Schneider School
+619,Sheena Ramirez,Woods-Rivera School
+620,Jennifer Clark,"Horn, Hernandez and Carter School"
+621,Edgar Watkins,Roach-Hartman School
+622,Megan Floyd,Fox PLC School
+623,Brandi Proctor,Garcia Inc School
+624,Mary Jackson,Bird-Larsen School
+625,James Cooper,Leblanc-Nelson School
+626,Katie Smith,Medina-Cordova School
+627,Mrs. Allison Carter,Duke-Waller School
+628,Sara Hayden,Martinez Group School
+629,Nicole Castro,Hill-Bell School
+630,Thomas Carter,"Murphy, Smith and Hill School"
+631,Gerald Black,"Lewis, Peterson and Wade School"
+632,Dawn King,"Mitchell, Harper and Wood School"
+633,Richard Patel,Williams-Harris School
+634,Robert Barnes,Castillo-James School
+635,Dominic Mejia,Parker-Lewis School
+636,Adam Martinez,Ramirez Inc School
+637,Robert Kelly,"Bonilla, Hart and Green School"
+638,Donna Pitts,Dominguez and Sons School
+639,Jeremy Curry,Carrillo LLC School
+640,Amanda Winters,"Kelly, Ortiz and Carney School"
+641,Thomas Chapman,Gray and Sons School
+642,Timothy Diaz,Bird-Larsen School
+643,Daisy Humphrey,Medina-Cordova School
+644,Jesse Nguyen,Fletcher and Sons School
+645,Zachary Mullins,Bird-Larsen School
+646,Brianna Johnson,Jones Group School
+647,Mary Robertson,"Williams, Spencer and Cooper School"
+648,Dr. Brandon Miller,Morris-Bush School
+649,Leah Villegas,White-Leblanc School
+650,Veronica Hamilton,Ramirez Inc School
+651,Mark Schroeder,Leblanc-Nelson School
+652,Shannon Charles,Patterson-Parker School
+653,Phillip Rollins,Mccoy PLC School
+654,Kevin Bennett,Austin-Roberson School
+655,Robert Huffman,Johnson-Delgado School
+656,Thomas Mack,"Arellano, Lewis and Lawson School"
+657,Emma Hernandez,Jones PLC School
+658,Donald Richards,White-Leblanc School
+659,Dana Harris,"Whitaker, Harris and Conley School"
+660,Todd Thomas,Beck-Reyes School
+661,Tanya Ruiz,"Lewis, Peterson and Wade School"
+662,Alexandra Schneider,Matthews Group School
+663,Javier Hughes,"Williams, Stark and Watkins School"
+664,Jacob Wyatt,Chaney Ltd School
+665,Erik Ford,Henderson-Schneider School
+666,Ashley Allen,Bass-Price School
+667,Kim Hull,Hall Group School
+668,Kathy Welch,Murray-Morales School
+669,Sheryl Davis,Jones Group School
+670,Taylor Gray,"Bonilla, Hart and Green School"
+671,Rachel Mitchell,"Petty, Conrad and Hodges School"
+672,Evan Caldwell,Brandt-Rivera School
+673,Candice Simon,George and Sons School
+674,Zachary Dougherty,Spears-Moore School
+675,Robert Friedman,Berry-Edwards School
+676,Sandra Rodriguez,"Shaw, Dickerson and Roberts School"
+677,Erin Garrett,Johnson-Johnson School
+678,Michael Griffith,"Cox, Chavez and Davis School"
+679,Robert Ryan,Williams-Harris School
+680,Ernest Davis,"Shaw, Dickerson and Roberts School"
+681,Justin Garcia,"Murphy, Smith and Hill School"
+682,Thomas Johnson,"Whitaker, Harris and Conley School"
+683,Edward Erickson,Young Inc School
+684,Latoya Shields,Jackson Group School
+685,Mark Schwartz,Cervantes Inc School
+686,David Spence,Medina-Cordova School
+687,Anna Porter,Ellis LLC School
+688,Mrs. Cassandra Thompson DDS,Hartman Group School
+689,Jesus Wood,"Shaw, Dickerson and Roberts School"
+690,Thomas Martin,Young Inc School
+691,Virginia Walton,Leblanc-Nelson School
+692,Melissa Kramer,"Lewis, Peterson and Wade School"
+693,Jennifer Barber,Cox Inc School
+694,Tara Duncan,King-Gomez School
+695,Jesse Little,"Wiley, Phillips and Johnson School"
+696,Alicia Lynch,Williams Ltd School
+697,Jamie Scott,Williams-Harris School
+698,Alison Sims,Brandt-Rivera School
+699,Kylie Walters,Compton-Ross School
+700,Jeffery Weber,Norris Inc School
+701,Robert Matthews,Duarte-Paul School
+702,Alexander Obrien Jr.,Diaz-Patterson School
+703,Nathan Sanders,Martinez Ltd School
+704,Maria Allison,Jones PLC School
+705,David Berry,Strong and Sons School
+706,Kaitlyn Kelly,Martinez Group School
+707,Robert Jensen,Mccoy PLC School
+708,Tim Williams,"Brown, Banks and Reyes School"
+709,Jeremy Perry,"Williams, Stark and Watkins School"
+710,Craig Davis,Patterson-Parker School
+711,Arthur Cunningham,Johnson-Delgado School
+712,Brad Washington,"Chambers, Clark and Johnson School"
+713,Andrea Mathis,"Cox, Chavez and Davis School"
+714,Michael Jones,Ramirez Inc School
+715,Cathy White,Paul PLC School
+716,Bobby Ryan,Wells Group School
+717,Edward Krueger,Davis-Hernandez School
+718,Jennifer Jackson,"Horn, Hernandez and Carter School"
+719,Curtis Williams,Paul PLC School
+720,Kathleen Johnson,Baldwin-Andrews School
+721,Bryan James,Dominguez and Sons School
+722,Nicole Gordon,"Cox, Chavez and Davis School"
+723,Erin Martinez,Matthews Group School
+724,Kylie Kline,"Thomas, Barrera and Wiggins School"
+725,Adam Sullivan,Leblanc-Nelson School
+726,Alexa Harris,Leblanc-Nelson School
+727,Victoria Snyder,"Thompson, Green and Martinez School"
+728,Melissa Velasquez,Nelson and Sons School
+729,Rebecca Garcia,Jones Group School
+730,Pamela Mcdonald,Barber PLC School
+731,Bryan Oliver,Barber PLC School
+732,Sherry Scott,Choi-Glass School
+733,Jason West,Murray-Morales School
+734,Patrick Johnson,"Horn, Hernandez and Carter School"
+735,Sarah Fisher,"Arellano, Lewis and Lawson School"
+736,Sherry Mccann,"Thomas, Barrera and Wiggins School"
+737,Paula Walter,"Chambers, Clark and Johnson School"
+738,Shelby Harris,"Bailey, Ortiz and Brooks School"
+739,James Klein,Johnson-Delgado School
+740,Richard Gonzalez,"Dunn, Garcia and Ward School"
+741,Michael Lawson,Hampton-Lang School
+742,Douglas Mcguire,"Thomas, Barrera and Wiggins School"
+743,Benjamin Gillespie,"Williams, Spencer and Cooper School"
+744,Robert Rodriguez,"Smith, Hopkins and Olson School"
+745,Miranda Johnson,Hall Group School
+746,Jennifer Howard,"Armstrong, Davis and Bean School"
+747,Courtney Logan MD,"Shaw, Dickerson and Roberts School"
+748,Roberta Smith,Harris and Sons School
+749,Sean Thomas,Beck-Reyes School
+750,Julian Taylor,Mason-Arnold School
+751,Victoria Miranda,Johnson-Delgado School
+752,Wendy Lee,"Thompson, Mcgrath and Rice School"
+753,Mark Velazquez,"Lewis, Peterson and Wade School"
+754,Brian Turner,Choi-Glass School
+755,Cody Allen,Choi-Glass School
+756,Melissa Golden MD,"Whitaker, Harris and Conley School"
+757,Jaclyn Anderson,Morris-Bush School
+758,Jared Olson,Cunningham and Sons School
+759,Samuel Warren,"Thompson, Mcgrath and Rice School"
+760,James Meyers,"Bonilla, Hart and Green School"
+761,Mr. Jason Adams,"Fox, Gardner and Davis School"
+762,Ronald Thompson,Bird-Larsen School
+763,Douglas Hendrix,Roach-Hartman School
+764,Heather Baker,Jones PLC School
+765,Michael Schneider,Norris Inc School
+766,Julie Dennis,Compton-Ross School
+767,Derek Harmon,"Dunn, Garcia and Ward School"
+768,Michael Long,Hartman Group School
+769,Amanda Flynn,Paul PLC School
+770,Kathy Martinez,Henderson-Schneider School
+771,Connor Malone,"Hale, Thomas and Price School"
+772,Brittney Cook,Murphy-Hardy School
+773,Natalie Olson,Cummings PLC School
+774,Devin Roberts,Brady-King School
+775,Sean Kent,Leblanc-Nelson School
+776,Gwendolyn Davis,Fox PLC School
+777,Christian Rodriguez,Hicks-Johnson School
+778,Rebecca Porter,Duke-Waller School
+779,Amanda Mathis,Mason-Arnold School
+780,Kristy Mccarthy,"Smith, Hopkins and Olson School"
+781,Anthony Bailey,Bauer Inc School
+782,Erin Navarro,"Wiley, Phillips and Johnson School"
+783,James Huynh,Gray and Sons School
+784,Amanda Jones,Choi-Glass School
+785,Edgar Arnold,"Wiley, Phillips and Johnson School"
+786,Patrick Shaw,Chaney Ltd School
+787,David Edwards,"Fox, Gardner and Davis School"
+788,Kayla Bowman,"Petty, Conrad and Hodges School"
+789,Andrew Barnes,George and Sons School
+790,Christine Lowe,Austin-Roberson School
+791,Cassandra Chung,Harris and Sons School
+792,Austin Cooper,"Ruiz, Chambers and Ward School"
+793,David Jones,"Guerrero, Fowler and Estrada School"
+794,Monica Jackson,"Whitaker, Harris and Conley School"
+795,Scott Riley,Strong and Sons School
+796,Brandon Weiss,Lewis Inc School
+797,Mark Henson,Compton-Ross School
+798,Lisa Taylor,Roach-Hartman School
+799,Keith Esparza,Dominguez-Jones School
+800,Christopher Roach,Patterson-Parker School
+801,Heather Sutton,Stewart-Thompson School
+802,Laura Douglas,Spears-Moore School
+803,Brenda Vance,Castillo-James School
+804,Ross Wheeler,"Patton, Wilson and Weber School"
+805,Krista Harris,"Hamilton, Williams and Weaver School"
+806,Brenda Guerrero,"Hale, Thomas and Price School"
+807,Alexander Walsh,Henderson-Schneider School
+808,Bobby Stone,White-Leblanc School
+809,Jennifer Rose,"Petty, Conrad and Hodges School"
+810,Stephen Allison MD,"Horn, Hernandez and Carter School"
+811,Ashley Pace,Austin-Roberson School
+812,Brenda Garza,"Dunn, Garcia and Ward School"
+813,Kathryn Brooks,"Wiley, Phillips and Johnson School"
+814,Emily Hamilton,Cummings PLC School
+815,Logan Campbell,Martinez Group School
+816,Ronald Pearson,Ramirez Inc School
+817,Jonathan Barron,"Ruiz, Chambers and Ward School"
+818,Johnny Salazar,Rangel PLC School
+819,Amber Gilbert,Bass-Price School
+820,Lisa Davis,Baldwin-Andrews School
+821,Nathan Davis,White-Leblanc School
+822,Rhonda Smith,"Williams, Spencer and Cooper School"
+823,Vincent Aguilar,Cunningham and Sons School
+824,James Thomas,"Hamilton, Williams and Weaver School"
+825,Dominique Elliott,"Whitaker, Harris and Conley School"
+826,Robert Bell,Wells Group School
+827,Travis Morales,"Williams, Spencer and Cooper School"
+828,Brooke Mueller DDS,Bauer Inc School
+829,Ryan Reyes,"Smith, Hopkins and Olson School"
+830,Heather Craig,Paul PLC School
+831,Angela Cook,Boyd LLC School
+832,Justin Williams,Paul PLC School
+833,Anthony Martinez,"Arellano, Lewis and Lawson School"
+834,Vernon Sandoval,Young Inc School
+835,Brandi Jones,King-Gomez School
+836,Willie Dickson,Leblanc-Nelson School
+837,Maria Lopez,"Wiley, Phillips and Johnson School"
+838,Kevin White,"Cox, Chavez and Davis School"
+839,Sarah Simmons,Matthews Group School
+840,Angela Raymond,Medina-Cordova School
+841,Samantha Martin,Duke-Waller School
+842,Kathleen Barnes,Shannon Inc School
+843,Albert Griffith,"Brooks, Thompson and Neal School"
+844,Hector Tran,Mason-Arnold School
+845,Ashley Figueroa,Gonzalez-Cole School
+846,Keith Dickson,Wheeler Inc School
+847,Carlos Freeman,Ramirez Inc School
+848,Gabrielle Vaughan,Cervantes Inc School
+849,Dr. Javier Harris,Brandt-Rivera School
+850,Jack Sawyer,Hampton-Lang School
+851,Kristin Daniels,"Bailey, Ortiz and Brooks School"
+852,Erin Andrews,Murray-Morales School
+853,Lance Warner,Wells Group School
+854,Kevin Lewis,Henderson-Schneider School
+855,Danny Ayers,"Thompson, Green and Martinez School"
+856,Crystal Mcfarland,Nelson and Sons School
+857,Mr. Benjamin Brown,"Hale, Thomas and Price School"
+858,Mr. Brian Thomas,Martinez Group School
+859,James Sloan,Cox Inc School
+860,Joseph Henderson,Diaz-Patterson School
+861,Mrs. Kayla Aguilar,Garcia Inc School
+862,Robert Macias,"Hill, Stout and Gonzalez School"
+863,Kelly Morrison,Duarte-Paul School
+864,John Dixon,Ramirez Inc School
+865,Samuel Duarte,Berry-Edwards School
+866,Shaun Copeland,Nelson and Sons School
+867,Gerald Williams,"Kelly, Ortiz and Carney School"
+868,Monica Lopez,Gray and Sons School
+869,Nancy Jones,"Armstrong, Davis and Bean School"
+870,Kevin Schneider,"Williams, Spencer and Cooper School"
+871,Julie Howard,Jackson Group School
+872,Jennifer Marshall,Henderson-Schneider School
+873,Kyle Valentine,"Roach, Sanders and Barrett School"
+874,Kendra Adams,Lewis Inc School
+875,Sarah Bridges DVM,"Lewis, Peterson and Wade School"
+876,Christie Kent,Duarte-Paul School
+877,Samuel Buckley,Cunningham and Sons School
+878,Logan Rogers,"Brown, Banks and Reyes School"
+879,Alyssa Schneider,Mccoy PLC School
+880,Mr. Corey Thompson,"Wiley, Phillips and Johnson School"
+881,Jorge Roberts,Brandt-Rivera School
+882,Lauren Manning,Berry-Edwards School
+883,Patricia Powers,Jones Group School
+884,Billy Jones,"Guerrero, Fowler and Estrada School"
+885,Tracey Ali,Castillo-James School
+886,Jordan Patel,"Lewis, Peterson and Wade School"
+887,Diana Gross,"Hill, Stout and Gonzalez School"
+888,Aaron Huerta,"Chambers, Clark and Johnson School"
+889,Mary Baker,Fletcher and Sons School
+890,Tyler Simpson,Stewart-Thompson School
+891,Brian Burch,"Bailey, Ortiz and Brooks School"
+892,Craig Rodriguez,"Bonilla, Hart and Green School"
+893,Patricia Williams,"Dunn, Garcia and Ward School"
+894,Tyler Hester,"Petty, Conrad and Hodges School"
+895,Danielle Johnson,"Williams, Stark and Watkins School"
+896,Brenda Burns,Morris-Bush School
+897,Amy Alvarado,Newman Inc School
+898,Cheyenne Morales,Morris-Bush School
+899,Jessica Robinson,"Kelly, Ortiz and Carney School"
+900,Austin Watkins,"Petty, Conrad and Hodges School"
+901,William Lee,Martinez Group School
+902,Damon Rollins,Compton-Ross School
+903,Kathleen Johnson,"Ruiz, Chambers and Ward School"
+904,Henry Hull,Rangel PLC School
+905,Mr. Tyrone Mathews,Young Inc School
+906,Samantha Medina,Henderson-Schneider School
+907,Carolyn Craig,White-Leblanc School
+908,Cynthia Hebert,Roberts-Green School
+909,Spencer Chandler,Morris-Bush School
+910,Amber Ward,"Shaw, Dickerson and Roberts School"
+911,Jacqueline Riley,"Thompson, Mcgrath and Rice School"
+912,Jennifer Crawford,Compton-Ross School
+913,Sandra Washington,"Hale, Thomas and Price School"
+914,Sarah Watson,Dominguez and Sons School
+915,Katie Bennett,"Bailey, Ortiz and Brooks School"
+916,Melvin Moody,Barber PLC School
+917,Albert Ochoa,Hicks-Johnson School
+918,Terry Thompson,"Whitaker, Harris and Conley School"
+919,Kaitlyn Oliver,Stewart-Thompson School
+920,Melanie Ho,Matthews Group School
+921,John Thompson,Weeks-Cabrera School
+922,Erica Evans,"Horn, Hernandez and Carter School"
+923,Nathan Thomas,"Shaw, Dickerson and Roberts School"
+924,Gary Gonzalez,"Roach, Sanders and Barrett School"
+925,Curtis Cannon,Cummings PLC School
+926,Gregory Clark,King-Gomez School
+927,Lindsey Bennett,Nelson and Sons School
+928,Brendan Wilson,Chaney Ltd School
+929,William Morgan,"Bonilla, Hart and Green School"
+930,Maria Becker,Rangel PLC School
+931,Monique Gonzalez,"Thomas, Shelton and Rivera School"
+932,Nathan Myers,"Patton, Wilson and Weber School"
+933,Sean Smith,Ellis LLC School
+934,Melissa Clark,Spears-Moore School
+935,Adam Hubbard,Murphy-Hardy School
+936,Scott Jackson,"Thompson, Mcgrath and Rice School"
+937,Ryan Berger,Gray and Sons School
+938,Jeffrey Smith,Dominguez-Jones School
+939,Patricia Oneal,"Petty, Conrad and Hodges School"
+940,Eric Taylor,Chaney Ltd School
+941,Claudia Perez,Morris-Bush School
+942,Maria Black,"Wiley, Phillips and Johnson School"
+943,Samantha Johnson,Hicks-Johnson School
+944,Brian Bowman,Johnson-Delgado School
+945,Katie Boyd,"Dunn, Garcia and Ward School"
+946,Kristina Day,Cox Inc School
+947,Manuel Brown,Weeks-Cabrera School
+948,David Schmidt Jr.,Martinez Ltd School
+949,Ronald Anderson,Bauer Inc School
+950,Lauren Ferguson,Mason-Arnold School
+951,William Walker,Diaz-Patterson School
+952,Patricia Riddle,Rangel PLC School
+953,Ms. Angela Robinson MD,George and Sons School
+954,Cory Owens,Matthews Group School
+955,Michael Valenzuela,Duarte-Paul School
+956,Linda Pena,Cervantes Inc School
+957,Jaime Harrington,Lewis Inc School
+958,Kenneth Lucas,"Whitaker, Harris and Conley School"
+959,Erin Brown,Hicks-Johnson School
+960,Amy Mendoza,Wells Group School
+961,Laura Kelly,White-Leblanc School
+962,George Bowers,"Murphy, Smith and Hill School"
+963,Frank Weaver,"Fox, Gardner and Davis School"
+964,Amanda Mayer,Williams-Harris School
+965,Angelica Thomas,"Hill, Stout and Gonzalez School"
+966,Natasha Mathews,Woods-Rivera School
+967,Tammy Simmons,Medina-Cordova School
+968,Diane Newman,"Cox, Chavez and Davis School"
+969,Adam Gross,Medina-Cordova School
+970,Wendy Miller,Murphy-Hardy School
+971,Kaitlyn Beasley,Paul PLC School
+972,Nicole Beltran,Lewis Inc School
+973,Ian Armstrong,Dominguez-Jones School
+974,Felicia Horne,Austin-Roberson School
+975,Jaime Bass,"Whitaker, Harris and Conley School"
+976,Matthew Roberts,"Armstrong, Davis and Bean School"
+977,Michelle Sosa,Smith Group School
+978,Carla Armstrong,"Petty, Conrad and Hodges School"
+979,Thomas Thompson,"Bonilla, Hart and Green School"
+980,Amber Collins,Wells Group School
+981,Cynthia Jones,Beck-Reyes School
+982,John Marshall,Wells Group School
+983,James Alvarado,Leblanc-Nelson School
+984,Barbara Wise,Stewart-Thompson School
+985,David Nichols,Spears-Moore School
+986,Melissa Humphrey,King-Gomez School
+987,John Juarez,Jones Group School
+988,Laura Jones,Mason-Arnold School
+989,Robert Smith,Fletcher and Sons School
+990,Rachel Edwards,Berry-Edwards School
+991,Walter Lutz,"Bailey, Ortiz and Brooks School"
+992,Christopher Garcia,Shannon Inc School
+993,Marcus Hernandez,Jones Group School
+994,Joel Ortega,Johnson-Delgado School
+995,Emma James,Roberts-Green School
+996,Antonio Johnson,Patterson-Parker School
+997,Mr. Mark Russell,"Guerrero, Fowler and Estrada School"
+998,Charles Thompson,"Roach, Sanders and Barrett School"
+999,Christopher Lambert,"Petty, Conrad and Hodges School"
+1000,Melissa Carroll,Chase Group School
+1001,Sarah Jones,"Brooks, Thompson and Neal School"
+1002,Lisa Bolton,Berry-Edwards School
+1003,Juan Holt,Harris and Sons School
+1004,Nathaniel Silva,Garcia Inc School
+1005,Teresa Rowe,Matthews Group School
+1006,Amanda Atkins,Spears-Moore School
+1007,Kathleen Smith,Edwards Group School
+1008,Cassandra Santos,Parker-Lewis School
+1009,James Meyer,Hampton-Lang School
+1010,Christine Tran,"Bonilla, Hart and Green School"
+1011,David Finley,Cervantes Inc School
+1012,Arthur Martinez,Norris Inc School
+1013,Amber Allen,"Williams, Spencer and Cooper School"
+1014,Anthony Brown,Walker-Anderson School
+1015,Miss Alyssa Gonzalez,Duke-Waller School
+1016,Stephanie Wells,King-Gomez School
+1017,April Gregory,Chase Group School
+1018,Rachel Davis,Cervantes Inc School
+1019,Steve Fowler,Jones Group School
+1020,Timothy Hernandez,Jones Group School
+1021,Teresa Smith,"Ruiz, Chambers and Ward School"
+1022,Kimberly Cross,Velasquez-Zamora School
+1023,Casey Page,Davis-Hernandez School
+1024,Samantha Chavez,Barber PLC School
+1025,Joshua Garrison,Williams-Harris School
+1026,Robert Jones,Fox PLC School
+1027,Natalie Bowman,Roberts-Green School
+1028,Jason Velazquez,"Chambers, Clark and Johnson School"
+1029,Rebecca Evans,"Bailey, Ortiz and Brooks School"
+1030,Stephen Rogers,"Brooks, Thompson and Neal School"
+1031,Samuel Thompson,Leblanc-Nelson School
+1032,Elizabeth Garcia,Hampton-Lang School
+1033,Sharon Ortiz,"Thompson, Mcgrath and Rice School"
+1034,Kimberly Santiago,"Hill, Stout and Gonzalez School"
+1035,Aaron Quinn,"Mitchell, Harper and Wood School"
+1036,Mitchell Weber,Wheeler Inc School
+1037,Ebony Barber,Young Inc School
+1038,Dana Mcclain,Ward Inc School
+1039,Maria Padilla,Franco-Baker School
+1040,Roger Mitchell,Boyd LLC School
+1041,Tina Mckinney,Ramirez Inc School
+1042,Heather Adams MD,Carrillo LLC School
+1043,Eugene Peterson,Hill-Bell School
+1044,Stephanie Brown,Brady-King School
+1045,Brian Stewart,Murray-Morales School
+1046,Karen Hunter,"Cox, Chavez and Davis School"
+1047,Carlos King,"Williams, Spencer and Cooper School"
+1048,Mary Mccoy,Compton-Ross School
+1049,Sarah Jones,"Petty, Conrad and Hodges School"
+1050,Austin Espinoza,George and Sons School
+1051,Tyler Thompson,Bird-Larsen School
+1052,Wendy Cervantes,Newman Inc School
+1053,Daniel Bailey,Edwards Group School
+1054,Chloe Tucker,Paul PLC School
+1055,Nathan Scott,Roach-Hartman School
+1056,Christopher Small,Dominguez and Sons School
+1057,Donald Baker,Brandt-Rivera School
+1058,Anthony Sullivan,"Bonilla, Hart and Green School"
+1059,Jacob Morrison,"Williams, Stark and Watkins School"
+1060,Linda Rogers,"Petty, Conrad and Hodges School"
+1061,Jake Yoder,Hill-Bell School
+1062,Terri Andrews,Bass-Price School
+1063,Elizabeth Clark,"Roach, Sanders and Barrett School"
+1064,William Smith,Dominguez-Jones School
+1065,Alison Bowen,"Brooks, Thompson and Neal School"
+1066,Mckenzie Barber,Walker-Anderson School
+1067,Jo Hampton,Ward Inc School
+1068,Glenn Rose,"Patton, Wilson and Weber School"
+1069,Morgan Weber,"Thomas, Barrera and Wiggins School"
+1070,Gail Jones,Williams Ltd School
+1071,Sabrina Galloway,Duke-Waller School
+1072,Ian Long,Dominguez and Sons School
+1073,Cathy Johnson,Patterson-Parker School
+1074,Darlene Warren,Ward Inc School
+1075,Timothy Diaz,Spears-Moore School
+1076,Tracy Gaines,Beck-Reyes School
+1077,Laura Cox,"Horn, Hernandez and Carter School"
+1078,William Harrell,Williams Ltd School
+1079,Brittany Wright,Garcia Inc School
+1080,Anna Wright,"Ruiz, Chambers and Ward School"
+1081,Charles Gibson,Chase Group School
+1082,Tyler Orozco,Jones Group School
+1083,Adam Rojas,Roach-Hartman School
+1084,Jeremy Hill,Gutierrez-Booth School
+1085,Carol Thompson,"Bailey, Ortiz and Brooks School"
+1086,Anthony Thompson,Weeks-Cabrera School
+1087,Matthew Lane,"Thompson, Mcgrath and Rice School"
+1088,Jennifer Smith,Franco-Baker School
+1089,Adam Morgan,Berry-Edwards School
+1090,Courtney Goodwin,Wheeler Inc School
+1091,Tracie Williams,"Bonilla, Hart and Green School"
+1092,Mitchell Kelly,Edwards Group School
+1093,Paul Bender,Duarte-Paul School
+1094,Michael May,Williams Ltd School
+1095,Larry Rogers,Stewart-Thompson School
+1096,Lisa Keller,White-Leblanc School
+1097,Nicole Mays,Roberts-Green School
+1098,Dakota Stewart,Ellis LLC School
+1099,Bradley Anderson,Brady-King School
+1100,Daniel Hunter,Smith Group School
+1101,Bradley Miller,Dominguez and Sons School
+1102,James Shaffer,Williams Ltd School
+1103,Marc Hutchinson,"Bailey, Ortiz and Brooks School"
+1104,Judy Duran,"Fox, Gardner and Davis School"
+1105,Samantha Lopez,Gonzalez-Cole School
+1106,Teresa Booker,Parker-Lewis School
+1107,Ryan Harper,Johnson-Johnson School
+1108,Jordan Beck,Brady-King School
+1109,Jeffrey Nelson,Cunningham and Sons School
+1110,James Mcdowell,Berry-Edwards School
+1111,Raymond Davis,Brandt-Rivera School
+1112,Crystal Nunez,"Armstrong, Davis and Bean School"
+1113,Lindsay Hale,"Arellano, Lewis and Lawson School"
+1114,Jordan Villanueva,Matthews Group School
+1115,Samantha Greene,Smith Group School
+1116,Austin Wilson,Roberts-Green School
+1117,Holly Le,"Bonilla, Hart and Green School"
+1118,John Manning,Spears-Moore School
+1119,Keith Cox,Woods-Rivera School
+1120,Nicole Walker,Johnson-Delgado School
+1121,Monica Robinson,Hicks-Johnson School
+1122,Tracey Johnson,Mccoy PLC School
+1123,Susan Gilbert,"Thompson, Mcgrath and Rice School"
+1124,Megan Campbell,Woods-Rivera School
+1125,Clayton Chan,Jackson Group School
+1126,Sara Myers,"Bonilla, Hart and Green School"
+1127,Heather White,"Mitchell, Harper and Wood School"
+1128,Kristy Shields,Velasquez-Zamora School
+1129,Johnny Keith,"Murphy, Smith and Hill School"
+1130,Barbara Mcintyre,"Dunn, Garcia and Ward School"
+1131,Chase Todd,"Cox, Chavez and Davis School"
+1132,Rebecca Joseph,Dominguez and Sons School
+1133,Emily Gates,Jones Group School
+1134,Carolyn Leonard,"Petty, Conrad and Hodges School"
+1135,Alice Taylor,Baldwin-Andrews School
+1136,Dale Reyes,"Shaw, Dickerson and Roberts School"
+1137,Joseph Castillo,Fox PLC School
+1138,Nancy Sutton,Bauer Inc School
+1139,Jose Prince,"Dunn, Garcia and Ward School"
+1140,Teresa Evans,Shannon Inc School
+1141,Brian Mitchell,Young Inc School
+1142,John Benson,"Brooks, Thompson and Neal School"
+1143,Daniel Cochran,"Hale, Thomas and Price School"
+1144,Darryl Maddox,Smith Group School
+1145,Pedro Faulkner,Martinez Ltd School
+1146,Charles Forbes,"Patton, Wilson and Weber School"
+1147,Karen Tran,Patterson-Parker School
+1148,Rodney Wright,Ward Inc School
+1149,James Hayes,Davis-Hernandez School
+1150,Elizabeth Russell,Norris Inc School
+1151,Timothy Torres,"Brown, Banks and Reyes School"
+1152,Adam Washington,Smith Group School
+1153,Anthony Johnson,"Fox, Gardner and Davis School"
+1154,James Robinson,King-Gomez School
+1155,Jessica Ramirez,Velasquez-Zamora School
+1156,Brandon Carrillo,Leblanc-Nelson School
+1157,Cindy Johnson,"Cox, Chavez and Davis School"
+1158,Ian Ortiz,"Bonilla, Hart and Green School"
+1159,Tyler Davis,Choi-Glass School
+1160,Eric Smith,"Kelly, Ortiz and Carney School"
+1161,Paul Bautista,Henderson-Schneider School
+1162,James Page,"Thompson, Mcgrath and Rice School"
+1163,Joshua Taylor,Gray and Sons School
+1164,Virginia Williams,Nelson and Sons School
+1165,Connie Norton,Carrillo LLC School
+1166,Rodney May,Leblanc-Nelson School
+1167,Olivia Fletcher,"Guerrero, Fowler and Estrada School"
+1168,Zachary Hester,Ramirez Inc School
+1169,Sarah Mcgee,Gonzalez-Cole School
+1170,Kevin Robinson,Weeks-Cabrera School
+1171,Jose Ware,Weeks-Cabrera School
+1172,Michael Sanchez,Fox PLC School
+1173,Ann Thomas,Medina-Cordova School
+1174,Nathan Guzman,"Brown, Banks and Reyes School"
+1175,Kyle Rollins,"Hill, Stout and Gonzalez School"
+1176,Charlotte Newman,Baldwin-Andrews School
+1177,Tiffany Clark,Johnson-Delgado School
+1178,Teresa Fields,Jones PLC School
+1179,Daniel Williams,Choi-Glass School
+1180,Alyssa Lopez,"Fox, Gardner and Davis School"
+1181,Thomas Gonzalez,Brandt-Rivera School
+1182,Andrew Hall,"Lewis, Peterson and Wade School"
+1183,Nicholas Powers,Martinez Ltd School
+1184,William Clark,Leblanc-Nelson School
+1185,Marissa Johnson,Hall Group School
+1186,Patrick Schwartz,Bass-Price School
+1187,Peter Ellis,"Williams, Stark and Watkins School"
+1188,Dr. Ryan Aguilar,"Mitchell, Harper and Wood School"
+1189,Kyle Mccarthy,King-Gomez School
+1190,Gary Giles,"Murphy, Smith and Hill School"
+1191,Todd Pace,George and Sons School
+1192,Karina Cook,Henderson-Schneider School
+1193,Austin Gentry,Morris-Bush School
+1194,Joseph Warner,Hicks-Johnson School
+1195,Chelsea Adams,Dominguez and Sons School
+1196,Chelsea Edwards,Edwards Group School
+1197,Kathryn Robinson,Dominguez-Jones School
+1198,Dennis Banks,Bauer Inc School
+1199,Ashley Bass,Hampton-Lang School
+1200,Tammy Bryant,Cummings PLC School
+1201,Kelly Cherry,Diaz-Patterson School
+1202,Mackenzie Brown,Hill-Bell School
+1203,John Christian,Stewart-Thompson School
+1204,Dennis Moody,Gutierrez-Booth School
+1205,Jonathon Moreno,Dominguez-Jones School
+1206,John Martin,Strong and Sons School
+1207,Tina Nelson,"Thomas, Barrera and Wiggins School"
+1208,Debra Mann,Roberts-Green School
+1209,Jonathan Townsend,Martinez Ltd School
+1210,Maria Page,Young Inc School
+1211,Christina Rowe,Patterson-Parker School
+1212,Anne Fischer,"Horn, Hernandez and Carter School"
+1213,Joseph Wilson,"Whitaker, Harris and Conley School"
+1214,Catherine Knight MD,Ellis LLC School
+1215,Paul Banks,Cox Inc School
+1216,Shelly Johnson,Velasquez-Zamora School
+1217,David Martin,Duarte-Paul School
+1218,Jeffrey Jackson,Hall Group School
+1219,Mitchell Stewart,Martinez Group School
+1220,Mary Ware,Hall Group School
+1221,Reginald Lee,Jackson Group School
+1222,James Long,Weeks-Cabrera School
+1223,Robert Reed,Hall Group School
+1224,Emma Vincent,Davis-Hernandez School
+1225,Blake Garrett,Young Inc School
+1226,Leroy Anderson,Ramirez Inc School
+1227,Morgan Alvarez,Martinez Ltd School
+1228,Traci Ray,Patterson-Parker School
+1229,Erik Ruiz,Bird-Larsen School
+1230,Dr. Megan Lopez,"Ruiz, Chambers and Ward School"
+1231,Heather Burns,Bass-Price School
+1232,Shane Peterson,"Wiley, Phillips and Johnson School"
+1233,Jason Jones,Lewis Inc School
+1234,Megan Winters,Berry-Edwards School
+1235,Thomas Jenkins,Compton-Ross School
+1236,Lisa Garcia,Berry-Edwards School
+1237,Amanda Oneal,Chase Group School
+1238,Jason Frey,Berry-Edwards School
+1239,Robert Peterson,Martinez Ltd School
+1240,Timothy King,Choi-Glass School
+1241,Patrick Ball,Cox Inc School
+1242,Monica Davis,Rangel PLC School
+1243,Karen Price,"Wiley, Phillips and Johnson School"
+1244,Elizabeth Hodges,Austin-Roberson School
+1245,Patrick Morales,Nelson and Sons School
+1246,Thomas Blackwell,"Smith, Hopkins and Olson School"
+1247,Wendy Higgins,Gonzalez-Cole School
+1248,Mitchell Greene,Mason-Arnold School
+1249,Trevor Macdonald,Gray and Sons School
+1250,Judith Higgins,"Patton, Wilson and Weber School"
+1251,Patricia Powers,"Bailey, Ortiz and Brooks School"
+1252,Rebecca Martinez,"Wiley, Phillips and Johnson School"
+1253,Matthew Wang,"Arellano, Lewis and Lawson School"
+1254,Ricky Gordon,"Patton, Wilson and Weber School"
+1255,Daisy Spears,Ramirez Inc School
+1256,Susan Rhodes,"Thompson, Mcgrath and Rice School"
+1257,Nancy Newton,Morris-Bush School
+1258,Stacey Mora,"Wiley, Phillips and Johnson School"
+1259,Savannah Flores,Duarte-Paul School
+1260,Rebecca Brown,Hall Group School
+1261,Christopher Lang,Cummings PLC School
+1262,Angela Salinas,"Thompson, Mcgrath and Rice School"
+1263,Melissa Mccann,Gray and Sons School
+1264,Michael Giles MD,"Patton, Wilson and Weber School"
+1265,Maria Montgomery,Roach-Hartman School
+1266,Brenda Stark,Henderson-Schneider School
+1267,Shelly Moore,Hampton-Lang School
+1268,Madison Salazar,Murray-Morales School
+1269,Jeffrey Lawrence,Gutierrez-Booth School
+1270,Christina Sutton,Weeks-Cabrera School
+1271,Jennifer Gibson,Norris Inc School
+1272,Gerald Wagner,Cervantes Inc School
+1273,Stacy Singleton,Shannon Inc School
+1274,Robert Delgado,Hicks-Johnson School
+1275,Daniel Elliott,Chase Group School
+1276,Melissa Crawford,Morris-Bush School
+1277,Brandon Medina,"Whitaker, Harris and Conley School"
+1278,Patricia Smith,Parker-Lewis School
+1279,Austin Chapman,"Hamilton, Williams and Weaver School"
+1280,Shannon Villegas,Roberts-Green School
+1281,Latoya Bartlett,Fox PLC School
+1282,Melissa Smith,"Kelly, Ortiz and Carney School"
+1283,Allison Hayes,"Thomas, Shelton and Rivera School"
+1284,Pamela Morgan,Medina-Cordova School
+1285,Robert Mason,Berry-Edwards School
+1286,Dr. Kaylee Smith,"Shaw, Dickerson and Roberts School"
+1287,Teresa Curry,"Armstrong, Davis and Bean School"
+1288,Fernando Preston,Carrillo LLC School
+1289,Nicole Buckley,"Petty, Conrad and Hodges School"
+1290,Nicole Adams,Gonzalez-Cole School
+1291,Michael Hernandez,"Hale, Thomas and Price School"
+1292,Matthew Orozco,"Patton, Wilson and Weber School"
+1293,Phillip Becker,Gonzalez-Cole School
+1294,Dawn Hill,"Arellano, Lewis and Lawson School"
+1295,Christine Coleman,"Thomas, Shelton and Rivera School"
+1296,Charles Moore,Johnson-Delgado School
+1297,Miranda Barr,Garcia Inc School
+1298,Jodi Bradley,Mason-Arnold School
+1299,Jason Powell,Bird-Larsen School
+1300,Guy Ochoa,Dominguez and Sons School
+1301,Diana Hardy,Ward Inc School
+1302,Katherine Wood,Medina-Cordova School
+1303,Joe Jones,Berry-Edwards School
+1304,Brandi Delgado,Woods-Rivera School
+1305,Elizabeth Nixon,"Brown, Banks and Reyes School"
+1306,Thomas Hill,Velasquez-Zamora School
+1307,Carolyn Curry,"Horn, Hernandez and Carter School"
+1308,Katrina Robinson,Wells Group School
+1309,Isaiah Beard,"Dunn, Garcia and Ward School"
+1310,William Petty,"Murphy, Smith and Hill School"
+1311,Lori Lopez,"Patton, Wilson and Weber School"
+1312,Jerome Mason,Strong and Sons School
+1313,Bryan Mills,Young Inc School
+1314,Paul Holmes,Stewart-Thompson School
+1315,Justin Nguyen,Paul PLC School
+1316,Mark Castillo,"Brooks, Thompson and Neal School"
+1317,Mary Wright,Nelson and Sons School
+1318,Andrew Powell,Gonzalez-Cole School
+1319,Angela Whitaker,Gutierrez-Booth School
+1320,Ronald Villa,Lewis Inc School
+1321,Matthew Hernandez,"Thomas, Barrera and Wiggins School"
+1322,Tony Schwartz,Bauer Inc School
+1323,Christopher Clements,"Ruiz, Chambers and Ward School"
+1324,Zachary Snyder,"Shaw, Dickerson and Roberts School"
+1325,Alex Fox,Cervantes Inc School
+1326,Jeffrey Hill,"Armstrong, Davis and Bean School"
+1327,Brittany Parker,Castillo-James School
+1328,Jessica Bailey,"Shaw, Dickerson and Roberts School"
+1329,Gabriel Wood,Nelson and Sons School
+1330,Becky Matthews,"Whitaker, Harris and Conley School"
+1331,Jonathan Jones,"Ruiz, Chambers and Ward School"
+1332,Laura Hill,"Hill, Stout and Gonzalez School"
+1333,Craig Williams,Baldwin-Andrews School
+1334,Jodi Martin,Roberts-Green School
+1335,Melissa Wolf,Williams Ltd School
+1336,Jessica Matthews,Dominguez-Jones School
+1337,Meredith Simmons,"Brooks, Thompson and Neal School"
+1338,Jessica Roberts,Hartman Group School
+1339,Zachary Cook,"Shaw, Dickerson and Roberts School"
+1340,Abigail Hayes,Matthews Group School
+1341,Katie Barnes,Edwards Group School
+1342,Dustin Aguilar,Baldwin-Andrews School
+1343,Cynthia Murphy,Young Inc School
+1344,Eric Espinoza,Jones Group School
+1345,Christopher Riley,Hicks-Johnson School
+1346,Jennifer Summers,Brandt-Rivera School
+1347,Stacy Fry,"Guerrero, Fowler and Estrada School"
+1348,Aaron Perez,Bauer Inc School
+1349,Leah Gomez,"Mitchell, Harper and Wood School"
+1350,Mary Robinson,Garcia Inc School
+1351,Thomas Khan,Edwards Group School
+1352,Jenna Meza,"Cox, Chavez and Davis School"
+1353,Eric Holmes,Berry-Edwards School
+1354,Tony Beltran,Cervantes Inc School
+1355,Amy Jones,Diaz-Patterson School
+1356,Todd Jones,"Whitaker, Harris and Conley School"
+1357,Brandi Guzman,Paul PLC School
+1358,Brian Foster,Fox PLC School
+1359,Beth Dickerson,"Brooks, Thompson and Neal School"
+1360,Mason Poole,Strong and Sons School
+1361,Brian Moore,Norris Inc School
+1362,Nicole Martinez,Baldwin-Andrews School
+1363,Ashley Davis,Barber PLC School
+1364,Matthew Briggs,"Roach, Sanders and Barrett School"
+1365,Kenneth Padilla,"Thompson, Mcgrath and Rice School"
+1366,Roger Mitchell,Hampton-Lang School
+1367,Angel Doyle,Hill-Bell School
+1368,Patricia Hoffman,Johnson-Johnson School
+1369,Tammy Patterson,George and Sons School
+1370,Erik Hurst,Fox PLC School
+1371,Robert Rasmussen,"Thomas, Shelton and Rivera School"
+1372,Gerald Torres,"Mitchell, Harper and Wood School"
+1373,Gary Doyle,"Thomas, Shelton and Rivera School"
+1374,Veronica Bennett,Harris and Sons School
+1375,Joshua Jackson,Williams-Harris School
+1376,Patricia Johnson,Parker-Lewis School
+1377,Ruth Gregory,Cervantes Inc School
+1378,Cynthia Griffith,Williams Ltd School
+1379,Megan Morris,Williams-Harris School
+1380,Eileen Mason,Jones Group School
+1381,Marissa Krueger,King-Gomez School
+1382,Dustin Frazier,Chaney Ltd School
+1383,Leslie Campbell,Paul PLC School
+1384,Susan Riley,Hill-Bell School
+1385,Mrs. Kelly Bush,"Thompson, Mcgrath and Rice School"
+1386,Teresa Smith,"Bailey, Ortiz and Brooks School"
+1387,Diane Greer,Bass-Price School
+1388,Kathryn Adams,Murphy-Hardy School
+1389,Thomas Carlson,Wheeler Inc School
+1390,Sherri Green,Murray-Morales School
+1391,Taylor Robinson,Hampton-Lang School
+1392,Michelle Kidd,Velasquez-Zamora School
+1393,Lauren Woods,"Williams, Spencer and Cooper School"
+1394,Erika Ramirez,Leblanc-Nelson School
+1395,Monica Martin,Strong and Sons School
+1396,Jonathan Coleman,"Brooks, Thompson and Neal School"
+1397,Michael Delgado,Hicks-Johnson School
+1398,Angela Paul,"Mitchell, Harper and Wood School"
+1399,Christina Johnson,"Brooks, Thompson and Neal School"
+1400,Alan Lam,Boyd LLC School
+1401,John Whitney,"Bailey, Ortiz and Brooks School"
+1402,Rebekah Kirby,"Wiley, Phillips and Johnson School"
+1403,Kristen Park,"Williams, Spencer and Cooper School"
+1404,Rebecca Welch,Chaney Ltd School
+1405,Lonnie Marshall,"Thomas, Shelton and Rivera School"
+1406,Michael Baker,Medina-Cordova School
+1407,Katrina Rodriguez,Duke-Waller School
+1408,Laura Bennett,Davis-Hernandez School
+1409,Matthew Gray II,Spears-Moore School
+1410,Kyle Cardenas,Lewis Inc School
+1411,Angel Graham,Wells Group School
+1412,Jennifer Payne,Johnson-Delgado School
+1413,Natasha Rhodes,Murphy-Hardy School
+1414,Evan King,Bass-Price School
+1415,Jason Anderson,Parker-Lewis School
+1416,Rodney Dennis,Morris-Bush School
+1417,Harry Mckinney,Harris and Sons School
+1418,Jill Avery,Fox PLC School
+1419,James Mathews,Johnson-Delgado School
+1420,Sean Norris,"Hill, Stout and Gonzalez School"
+1421,Sarah Mayer,Franco-Baker School
+1422,Eric Carroll,"Thomas, Barrera and Wiggins School"
+1423,Elizabeth Dennis,Williams Ltd School
+1424,Victoria Leon,Young Inc School
+1425,Mark Payne,Gray and Sons School
+1426,Tonya Espinoza,Lewis Inc School
+1427,Joann Stewart,Dominguez and Sons School
+1428,Jessica Reyes,Brandt-Rivera School
+1429,Nicholas Davis,Patterson-Parker School
+1430,David Miranda,Cummings PLC School
+1431,Shari Campbell,Velasquez-Zamora School
+1432,Christopher Briggs,Roach-Hartman School
+1433,Patricia Wells,Dominguez and Sons School
+1434,Antonio Hull,"Fox, Gardner and Davis School"
+1435,Michelle Henderson,"Ruiz, Chambers and Ward School"
+1436,Zoe Wolf,Baldwin-Andrews School
+1437,Michael Nelson,Williams Ltd School
+1438,Casey Nelson,Leblanc-Nelson School
+1439,Alexander Cook,"Thompson, Green and Martinez School"
+1440,Allen Yang,Boyd LLC School
+1441,Jason Velazquez,"Mitchell, Harper and Wood School"
+1442,Michael Hardy,Martinez Group School
+1443,Cody Freeman,Cunningham and Sons School
+1444,Christian Lewis,"Petty, Conrad and Hodges School"
+1445,Jeffery Martin,Mccoy PLC School
+1446,Robert Mills,Jones PLC School
+1447,Brady Santos,Leblanc-Nelson School
+1448,Aaron Cooper,"Thompson, Green and Martinez School"
+1449,Steve Richardson,Castillo-James School
+1450,Donna Kelly,"Thomas, Barrera and Wiggins School"
+1451,Donald Krueger,Carrillo LLC School
+1452,Samantha Jenkins,"Ruiz, Chambers and Ward School"
+1453,Adam Brown,Diaz-Patterson School
+1454,Jill Nash,Fletcher and Sons School
+1455,Jaime Turner DDS,Hill-Bell School
+1456,Tiffany Kelley,"Kelly, Ortiz and Carney School"
+1457,Amanda Benson,Gutierrez-Booth School
+1458,Tony Smith,"Murphy, Smith and Hill School"
+1459,Cassidy Williams,Stewart-Thompson School
+1460,Michele Jones,Cunningham and Sons School
+1461,Hannah Cook,Edwards Group School
+1462,John Walters,Bird-Larsen School
+1463,Daniel Martinez,Wells Group School
+1464,Dawn Cooper,Leblanc-Nelson School
+1465,John Ho,Gonzalez-Cole School
+1466,Cassandra Alvarado,Henderson-Schneider School
+1467,Lindsey Taylor,Dominguez-Jones School
+1468,Elizabeth Buckley,Matthews Group School
+1469,Mrs. Debra Brown,Carrillo LLC School
+1470,Christina Benson,Cunningham and Sons School
+1471,Laura Webb,Leblanc-Nelson School
+1472,Stacey Collier,Norris Inc School
+1473,Kelly Keller,Stewart-Thompson School
+1474,Thomas Davis,Woods-Rivera School
+1475,Kimberly Ford,Compton-Ross School
+1476,Steven Welch,"Thomas, Shelton and Rivera School"
+1477,Jeffrey Ross,Boyd LLC School
+1478,John Bailey,Johnson-Johnson School
+1479,Sarah Francis,"Chambers, Clark and Johnson School"
+1480,Jonathan Moon,Brandt-Rivera School
+1481,Corey Day,Barber PLC School
+1482,Katelyn Mcmillan,Williams Ltd School
+1483,Sandra Nicholson,Jones Group School
+1484,Christopher Hoover,Martinez Group School
+1485,Austin Duran,Stewart-Thompson School
+1486,William Barton,Shannon Inc School
+1487,Dr. Robert Lewis MD,Henderson-Schneider School
+1488,Heather Patrick,George and Sons School
+1489,Dustin Cole,Brandt-Rivera School
+1490,Tyler Boyd,Wells Group School
+1491,Kimberly Juarez,Weeks-Cabrera School
+1492,Andres Hernandez,Wells Group School
+1493,Sean Rojas,Ward Inc School
+1494,Michelle Mendez,Nelson and Sons School
+1495,Christopher Fritz,"Hamilton, Williams and Weaver School"
+1496,Noah Hansen,Williams-Harris School
+1497,Julie Gomez,Murphy-Hardy School
+1498,Michael Graham,Spears-Moore School
+1499,Maria King,Ward Inc School
+1500,Monica Adkins,"Mitchell, Harper and Wood School"
+1501,Cristina Dominguez,Morris-Bush School
+1502,Anna Case,Bauer Inc School
+1503,Christina Burton,Davis-Hernandez School
+1504,Mr. Brett Hansen,"Dunn, Garcia and Ward School"
+1505,Julie Adams,"Kelly, Ortiz and Carney School"
+1506,Katherine Payne,White-Leblanc School
+1507,Jessica Benton,Cox Inc School
+1508,Brian Chan,"Williams, Spencer and Cooper School"
+1509,Patricia Hicks,Young Inc School
+1510,Christian Coleman,Compton-Ross School
+1511,Joshua Davidson,Gutierrez-Booth School
+1512,Sharon Lopez,Duke-Waller School
+1513,Randy Brown,Berry-Edwards School
+1514,Theresa Wiley,Gray and Sons School
+1515,Dan Lambert,Hartman Group School
+1516,Jessica Lee,"Williams, Stark and Watkins School"
+1517,Michael Kramer,"Hamilton, Williams and Weaver School"
+1518,Edward Sanchez,Cummings PLC School
+1519,Christopher Miller,Cummings PLC School
+1520,Sandra Morales,Leblanc-Nelson School
+1521,Charles Figueroa,Duarte-Paul School
+1522,Patricia Miller,Choi-Glass School
+1523,Jason Sharp,Velasquez-Zamora School
+1524,Jennifer Jackson,"Williams, Stark and Watkins School"
+1525,Cameron Rogers,Roach-Hartman School
+1526,Rebecca Robinson,Leblanc-Nelson School
+1527,Mark Wood,Hall Group School
+1528,Daniel Gomez,"Arellano, Lewis and Lawson School"
+1529,Colleen Carpenter,Roach-Hartman School
+1530,Casey Holmes,Dominguez-Jones School
+1531,Derek Beck,Compton-Ross School
+1532,Laura Washington,"Roach, Sanders and Barrett School"
+1533,William Randall,Choi-Glass School
+1534,Tyler Johnson,"Ruiz, Chambers and Ward School"
+1535,Jonathan Downs,Martinez Group School
+1536,Raymond Sawyer,"Chambers, Clark and Johnson School"
+1537,Michael Perkins,Compton-Ross School
+1538,Christian Calhoun,Hill-Bell School
+1539,Paul Garza,Carrillo LLC School
+1540,Robert Chase,Johnson-Johnson School
+1541,Anthony Hernandez,Ramirez Inc School
+1542,Lori Jackson,Hicks-Johnson School
+1543,Harold Savage,Hill-Bell School
+1544,Brenda Hunter,"Arellano, Lewis and Lawson School"
+1545,Angela Arnold,Martinez Ltd School
+1546,Ryan Miller,Williams-Harris School
+1547,Alexis Gray,Parker-Lewis School
+1548,Ashley Walker,"Horn, Hernandez and Carter School"
+1549,Ashley Gardner,Castillo-James School
+1550,Thomas Lewis,Duarte-Paul School
+1551,William Adams,"Hale, Thomas and Price School"
+1552,Kevin Barrett,"Hill, Stout and Gonzalez School"
+1553,Christine Simon,"Petty, Conrad and Hodges School"
+1554,Lindsey Turner,"Wiley, Phillips and Johnson School"
+1555,Kimberly Parsons,Harris and Sons School
+1556,Thomas Fleming,"Murphy, Smith and Hill School"
+1557,Pamela Yoder,Mccoy PLC School
+1558,Russell Sanders,Wells Group School
+1559,Carrie Montoya,Mccoy PLC School
+1560,Edward Butler,Walker-Anderson School
+1561,Joseph Wood,Dominguez and Sons School
+1562,Jimmy Smith,Wheeler Inc School
+1563,Vanessa Nelson,Williams-Harris School
+1564,Vanessa Johnson,Stewart-Thompson School
+1565,Donald Wheeler,Ward Inc School
+1566,Taylor Sanchez,Murray-Morales School
+1567,Charles Davis,Weeks-Cabrera School
+1568,Christine Miller,Henderson-Schneider School
+1569,Jared Strickland,Jackson Group School
+1570,Matthew Anderson,Norris Inc School
+1571,Amanda Miller,Norris Inc School
+1572,Julie Salazar,"Wiley, Phillips and Johnson School"
+1573,Jordan Edwards,Carrillo LLC School
+1574,Christopher Collins,"Thomas, Shelton and Rivera School"
+1575,Heidi Smith,Williams Ltd School
+1576,Marc Baker,"Smith, Hopkins and Olson School"
+1577,Anthony Lewis,Martinez Group School
+1578,Mary Eaton,"Wiley, Phillips and Johnson School"
+1579,Stacy Davis,Hartman Group School
+1580,Stephanie Green,Beck-Reyes School
+1581,Philip Davis,Gray and Sons School
+1582,Ann Aguirre,Walker-Anderson School
+1583,Jessica Lambert,"Williams, Stark and Watkins School"
+1584,Ann Cox,Velasquez-Zamora School
+1585,Erin Price,Shannon Inc School
+1586,Alexandra Mccormick,"Chambers, Clark and Johnson School"
+1587,Vicki Welch,"Wiley, Phillips and Johnson School"
+1588,Roy Garza,Stewart-Thompson School
+1589,Mary Stewart,"Hale, Thomas and Price School"
+1590,Martin Walls,"Lewis, Peterson and Wade School"
+1591,Danielle Long,Wells Group School
+1592,David Newton,Dominguez and Sons School
+1593,Christopher Smith,Garcia Inc School
+1594,Megan Gonzalez,Wells Group School
+1595,Theresa Barnett,George and Sons School
+1596,Charles Buchanan,"Brown, Banks and Reyes School"
+1597,Cynthia Joseph,Strong and Sons School
+1598,Erik Galvan,"Williams, Spencer and Cooper School"
+1599,Valerie Berry,"Smith, Hopkins and Olson School"
+1600,Mrs. Sara Woods,"Thomas, Barrera and Wiggins School"
+1601,Michael Wilson,George and Sons School
+1602,Natalie Klein,Fox PLC School
+1603,Tom Osborne,"Smith, Hopkins and Olson School"
+1604,Mark Smith,"Thomas, Barrera and Wiggins School"
+1605,Sara Owen,Ward Inc School
+1606,Danny Simpson,"Patton, Wilson and Weber School"
+1607,Jordan Johnson,"Williams, Spencer and Cooper School"
+1608,April Richardson,Gutierrez-Booth School
+1609,Katherine Williams,Fletcher and Sons School
+1610,Rebecca Martinez,Spears-Moore School
+1611,Chad Alexander,"Ruiz, Chambers and Ward School"
+1612,Michael Shea,Williams Ltd School
+1613,Gabrielle Scott,Hill-Bell School
+1614,Dawn Cook,Franco-Baker School
+1615,Michelle Wilson,Young Inc School
+1616,Pamela Foster,Williams Ltd School
+1617,Anthony Carter,Johnson-Johnson School
+1618,Jane Martin,Strong and Sons School
+1619,Linda Robertson,Wheeler Inc School
+1620,Gordon Campbell,Ramirez Inc School
+1621,Barbara Huynh,Hampton-Lang School
+1622,Juan Mcdaniel,"Horn, Hernandez and Carter School"
+1623,Joseph Grant,Norris Inc School
+1624,Roy Hernandez,Bird-Larsen School
+1625,Lisa Robinson,"Lewis, Peterson and Wade School"
+1626,Jonathan Howard,Bauer Inc School
+1627,Joseph Phillips,Murray-Morales School
+1628,Ronald Horne,"Smith, Hopkins and Olson School"
+1629,Robert Whitney,Dominguez and Sons School
+1630,Kristin Harvey,Williams-Harris School
+1631,Eric Pugh,Leblanc-Nelson School
+1632,Douglas Johnson,Gutierrez-Booth School
+1633,Richard Moore,Garcia Inc School
+1634,Brooke Mack,Roberts-Green School
+1635,Jennifer Wright,Nelson and Sons School
+1636,Marcus Martinez,Austin-Roberson School
+1637,Karla Fields,Duarte-Paul School
+1638,Thomas Nelson,Hampton-Lang School
+1639,Deanna Craig,Parker-Lewis School
+1640,Scott Thomas,Paul PLC School
+1641,Lisa Fischer,Young Inc School
+1642,Ms. Emily Griffin DVM,Dominguez and Sons School
+1643,David Morrison,Jones PLC School
+1644,Tracy Parks,"Brooks, Thompson and Neal School"
+1645,Barbara Wood,"Wiley, Phillips and Johnson School"
+1646,Jermaine Nunez,Johnson-Delgado School
+1647,Becky Mccormick,Ramirez Inc School
+1648,Judith Hernandez,Duarte-Paul School
+1649,Rebecca Hill,Patterson-Parker School
+1650,Justin Wilson,Roach-Hartman School
+1651,Michael Mcdonald,Harris and Sons School
+1652,Mary Sullivan,Smith Group School
+1653,Zachary Gonzalez,Martinez Group School
+1654,Nicole Herrera,"Lewis, Peterson and Wade School"
+1655,Brian Ibarra,Velasquez-Zamora School
+1656,Heather Graves,Hartman Group School
+1657,David King,Duke-Waller School
+1658,Jennifer Beck,Medina-Cordova School
+1659,Ronald Floyd,"Patton, Wilson and Weber School"
+1660,Elizabeth Cannon,Beck-Reyes School
+1661,Sarah Bowman,"Fox, Gardner and Davis School"
+1662,Charles Pearson,Spears-Moore School
+1663,Chelsea Randall,Newman Inc School
+1664,Jason Lynn,Brady-King School
+1665,Lauren Holder,Lewis Inc School
+1666,Bradley Phillips,Martinez Group School
+1667,Kevin Guerrero,Mccoy PLC School
+1668,Adriana Reid,Medina-Cordova School
+1669,Mark Hernandez,"Arellano, Lewis and Lawson School"
+1670,Jennifer Brown,"Mitchell, Harper and Wood School"
+1671,Rachel Haynes,Duke-Waller School
+1672,April Rodriguez,Stewart-Thompson School
+1673,Vanessa Miranda,"Petty, Conrad and Hodges School"
+1674,Colleen Brooks,Franco-Baker School
+1675,Diane Mendoza,"Bonilla, Hart and Green School"
+1676,Dawn Reyes,Martinez Ltd School
+1677,Samantha Schwartz,"Patton, Wilson and Weber School"
+1678,Mrs. Catherine West,Davis-Hernandez School
+1679,Kenneth Sanchez,"Hill, Stout and Gonzalez School"
+1680,Robert Le,Castillo-James School
+1681,Emily Simon,Morris-Bush School
+1682,Sandra Weaver,Castillo-James School
+1683,Steven Johnson,Castillo-James School
+1684,Ivan Thompson,"Roach, Sanders and Barrett School"
+1685,Julie Lopez,"Hill, Stout and Gonzalez School"
+1686,Matthew Sloan,Austin-Roberson School
+1687,Joseph Dixon,"Shaw, Dickerson and Roberts School"
+1688,Brooke Cannon,"Arellano, Lewis and Lawson School"
+1689,Kimberly Kirk,Stewart-Thompson School
+1690,Anne Williams,"Whitaker, Harris and Conley School"
+1691,Ashley Davis,Bird-Larsen School
+1692,Nicholas Morgan,Weeks-Cabrera School
+1693,Paul Clay,"Thomas, Shelton and Rivera School"
+1694,Angela Stark,Matthews Group School
+1695,Kristi Wilkins,Weeks-Cabrera School
+1696,Nathan Rodriguez,Lewis Inc School
+1697,Vanessa Berger,Mccoy PLC School
+1698,Leslie Benton,"Whitaker, Harris and Conley School"
+1699,Daniel Pugh,Jones PLC School
+1700,Steve Park,Newman Inc School
+1701,Victor Cummings,White-Leblanc School
+1702,Matthew Morton,Beck-Reyes School
+1703,Claudia Bowers,"Bailey, Ortiz and Brooks School"
+1704,Joseph Gomez,Garcia Inc School
+1705,Ashley Haynes,Ward Inc School
+1706,Brianna French,"Hill, Stout and Gonzalez School"
+1707,Robert Shields,Jones Group School
+1708,Jermaine Rogers,Fletcher and Sons School
+1709,Nicole Cruz,Matthews Group School
+1710,David Flores,Harris and Sons School
+1711,Brian Bowen,Davis-Hernandez School
+1712,Ashley French,Hampton-Lang School
+1713,Kelsey West,"Dunn, Garcia and Ward School"
+1714,Michael Daniel,"Arellano, Lewis and Lawson School"
+1715,Christian George,"Arellano, Lewis and Lawson School"
+1716,Cory Rice,"Horn, Hernandez and Carter School"
+1717,Michael Dunn,"Armstrong, Davis and Bean School"
+1718,Danielle Byrd,Cox Inc School
+1719,Karen Wu,George and Sons School
+1720,Joseph Griffith,Young Inc School
+1721,Diane Thompson,Medina-Cordova School
+1722,Vanessa Bullock,Rangel PLC School
+1723,Michael Hicks,"Fox, Gardner and Davis School"
+1724,Timothy Wright,"Hale, Thomas and Price School"
+1725,Deborah Hicks,Duke-Waller School
+1726,Alejandra Collins,Carrillo LLC School
+1727,Joseph Salazar,Spears-Moore School
+1728,Ryan Williams,Barber PLC School
+1729,Mr. Michael Day Jr.,Bass-Price School
+1730,David Davis,Jackson Group School
+1731,Amy Lee,"Hamilton, Williams and Weaver School"
+1732,Ms. Robin Hall,Hampton-Lang School
+1733,Scott Porter,Roach-Hartman School
+1734,Jennifer Singleton,"Brooks, Thompson and Neal School"
+1735,Brian Jones,Dominguez-Jones School
+1736,Sherry Moore,Matthews Group School
+1737,Matthew Smith,Edwards Group School
+1738,Mark Obrien,Duarte-Paul School
+1739,Nicole Hunter,Brandt-Rivera School
+1740,Allen Freeman,"Williams, Spencer and Cooper School"
+1741,Margaret Johnson,Berry-Edwards School
+1742,Tina Howell,Williams Ltd School
+1743,Richard Gordon,"Hill, Stout and Gonzalez School"
+1744,Christopher Sharp,"Hill, Stout and Gonzalez School"
+1745,Tyler Atkins,Hill-Bell School
+1746,Jennifer Brown,Leblanc-Nelson School
+1747,Deborah Jenkins,Beck-Reyes School
+1748,Jeremiah Perez,"Bailey, Ortiz and Brooks School"
+1749,Alejandra Anderson,Patterson-Parker School
+1750,Yvette Fry,"Williams, Spencer and Cooper School"
+1751,Nicole Love,Martinez Group School
+1752,Deanna White,Murray-Morales School
+1753,Larry Costa,"Whitaker, Harris and Conley School"
+1754,Destiny Jenkins,"Bailey, Ortiz and Brooks School"
+1755,Charles Brown,Wheeler Inc School
+1756,Samuel Scott,"Williams, Stark and Watkins School"
+1757,Amanda Haynes,"Hamilton, Williams and Weaver School"
+1758,Matthew Gordon,Jones PLC School
+1759,Zachary Arroyo IV,"Fox, Gardner and Davis School"
+1760,David Curtis,Cunningham and Sons School
+1761,April Robinson,Leblanc-Nelson School
+1762,Chelsea Sullivan,"Bailey, Ortiz and Brooks School"
+1763,Gabriel Duarte,"Whitaker, Harris and Conley School"
+1764,Casey Lynch,Hill-Bell School
+1765,Heather Page,Edwards Group School
+1766,William Clark,Harris and Sons School
+1767,James Morales,Johnson-Johnson School
+1768,Alexander Roth,Henderson-Schneider School
+1769,Richard Browning,Velasquez-Zamora School
+1770,Beth Bryant,"Thomas, Shelton and Rivera School"
+1771,Jennifer Jackson,Young Inc School
+1772,Benjamin Delgado,Baldwin-Andrews School
+1773,Drew Wheeler,Lewis Inc School
+1774,Adam Stone,"Brown, Banks and Reyes School"
+1775,Ashley Strong,Lewis Inc School
+1776,William Sparks,"Wiley, Phillips and Johnson School"
+1777,Jon Jones,Mccoy PLC School
+1778,Mrs. Monica Fields PhD,Wheeler Inc School
+1779,Donald Webb,Hall Group School
+1780,Jamie Hall,Franco-Baker School
+1781,Cathy Schmitt,Matthews Group School
+1782,Dr. Keith Burgess,"Guerrero, Fowler and Estrada School"
+1783,Taylor Vargas,Murphy-Hardy School
+1784,Sarah Bailey,Jones PLC School
+1785,Stacy Morrison,Patterson-Parker School
+1786,Nicole Campos,"Hale, Thomas and Price School"
+1787,Jose Prince,Woods-Rivera School
+1788,Judy Carter,Johnson-Johnson School
+1789,Shannon Whitehead,"Chambers, Clark and Johnson School"
+1790,Lisa Ortiz,Garcia Inc School
+1791,Eric Hicks,Carrillo LLC School
+1792,Bradley Hall,Berry-Edwards School
+1793,Kyle Olsen,Martinez Ltd School
+1794,Laura Andrews,"Bailey, Ortiz and Brooks School"
+1795,Connor Larson,Cox Inc School
+1796,Kimberly Davis,Lewis Inc School
+1797,Matthew Thomas,Hicks-Johnson School
+1798,Michael Daniel,Strong and Sons School
+1799,Kevin White,"Roach, Sanders and Barrett School"
+1800,Shane Williams,Martinez Ltd School
+1801,Jeffrey Stone,Jones PLC School
+1802,Diana Ross,Smith Group School
+1803,Kathy Branch,Parker-Lewis School
+1804,Seth Wolf,Mason-Arnold School
+1805,Lisa Logan,Nelson and Sons School
+1806,Sharon Ali,"Shaw, Dickerson and Roberts School"
+1807,Diane Tate,"Shaw, Dickerson and Roberts School"
+1808,Crystal York,Garcia Inc School
+1809,Nicole Price,Cummings PLC School
+1810,Brian Garcia,Chase Group School
+1811,Luke Knight,"Roach, Sanders and Barrett School"
+1812,Megan Johnson,Shannon Inc School
+1813,James Gutierrez,Norris Inc School
+1814,Danny Taylor,"Brooks, Thompson and Neal School"
+1815,Natalie Osborne,Gutierrez-Booth School
+1816,Michael Wallace,Duke-Waller School
+1817,Cameron Garcia,Martinez Group School
+1818,Sheila Suarez,"Mitchell, Harper and Wood School"
+1819,Jason Fleming,"Dunn, Garcia and Ward School"
+1820,Danielle Lopez,Johnson-Delgado School
+1821,Kenneth Francis,Young Inc School
+1822,Kaitlyn Young,Woods-Rivera School
+1823,Alexis Walker,Bauer Inc School
+1824,Michael Haney,Williams Ltd School
+1825,Marcia Williams,Carrillo LLC School
+1826,Morgan Petersen,Mason-Arnold School
+1827,Edward Hendrix,Hartman Group School
+1828,Carla Hernandez,Compton-Ross School
+1829,Timothy Obrien,"Thomas, Shelton and Rivera School"
+1830,Kristina Wilson,Mccoy PLC School
+1831,Jon Powell,Hartman Group School
+1832,Michael Romero,Brady-King School
+1833,Ronald Higgins,"Cox, Chavez and Davis School"
+1834,Jeffery Olsen,Fletcher and Sons School
+1835,Chase Ball,Garcia Inc School
+1836,Maria Arellano,Hall Group School
+1837,Julie Khan,Choi-Glass School
+1838,Elizabeth Johnson,Fletcher and Sons School
+1839,Eric Williams,"Williams, Stark and Watkins School"
+1840,Tracy Hartman,"Horn, Hernandez and Carter School"
+1841,Melissa Holland,Weeks-Cabrera School
+1842,Andrea White,"Roach, Sanders and Barrett School"
+1843,Anna Little,"Wiley, Phillips and Johnson School"
+1844,Jennifer Lewis,"Fox, Gardner and Davis School"
+1845,Ana Hernandez,Baldwin-Andrews School
+1846,Jesus Richardson,Morris-Bush School
+1847,William Richards,Fletcher and Sons School
+1848,Sheila Delgado,"Fox, Gardner and Davis School"
+1849,Kathryn White,Leblanc-Nelson School
+1850,Lindsay Hill,Strong and Sons School
+1851,Brittany Gallegos,"Patton, Wilson and Weber School"
+1852,Jonathan Roberts,Williams Ltd School
+1853,Joshua Harris,Bird-Larsen School
+1854,Cassandra Brooks,"Guerrero, Fowler and Estrada School"
+1855,Jonathan Hall,Newman Inc School
+1856,Kelly Livingston,"Kelly, Ortiz and Carney School"
+1857,Christopher Chapman,Brandt-Rivera School
+1858,Jean White,Walker-Anderson School
+1859,Philip Calhoun,Wheeler Inc School
+1860,Jessica Gonzalez,Hall Group School
+1861,Sherry Johnson,Henderson-Schneider School
+1862,Jill Floyd,Murphy-Hardy School
+1863,Emily Rose,"Wiley, Phillips and Johnson School"
+1864,Craig Pham,Carrillo LLC School
+1865,David Pineda,Young Inc School
+1866,Jennifer Jackson,Rangel PLC School
+1867,Anthony Reynolds,Jones PLC School
+1868,Jessica Li,Carrillo LLC School
+1869,Brandy Hardy,Stewart-Thompson School
+1870,Malik Morgan,Dominguez and Sons School
+1871,Amanda Chapman,Rangel PLC School
+1872,Douglas Hill,"Mitchell, Harper and Wood School"
+1873,Jose Pollard,Franco-Baker School
+1874,Deborah Harvey,"Brooks, Thompson and Neal School"
+1875,Michael Dixon,"Dunn, Garcia and Ward School"
+1876,Shari Black,"Petty, Conrad and Hodges School"
+1877,Erika Reed,"Chambers, Clark and Johnson School"
+1878,Emily Wagner,Rangel PLC School
+1879,Yvonne Townsend,Velasquez-Zamora School
+1880,Jessica Ryan,George and Sons School
+1881,Brian Lewis,Bass-Price School
+1882,Christina Rowe,Compton-Ross School
+1883,Ray Benitez,Duke-Waller School
+1884,Nicholas Jordan,Austin-Roberson School
+1885,Henry Baldwin,"Dunn, Garcia and Ward School"
+1886,Kristina Gibson,Patterson-Parker School
+1887,Suzanne Murphy,Murray-Morales School
+1888,Joyce Pierce,"Brown, Banks and Reyes School"
+1889,Courtney Wilson,Ellis LLC School
+1890,Kimberly Rice,Martinez Ltd School
+1891,Oscar Mitchell,Fox PLC School
+1892,Monica Mccormick,Barber PLC School
+1893,Mike Vazquez,Gutierrez-Booth School
+1894,Michael Richardson,Boyd LLC School
+1895,Destiny Gonzalez,Henderson-Schneider School
+1896,Craig Pham,Bass-Price School
+1897,Paul Rodriguez,Ramirez Inc School
+1898,Gerald Rogers,Paul PLC School
+1899,Charles James,Newman Inc School
+1900,Molly Garza,Rangel PLC School
+1901,Victor Carpenter,Chase Group School
+1902,Glenn Johnson,White-Leblanc School
+1903,David Escobar,"Thompson, Green and Martinez School"
+1904,Brittany Smith,"Hamilton, Williams and Weaver School"
+1905,Scott Wood,Cervantes Inc School
+1906,Dylan Ferguson,"Lewis, Peterson and Wade School"
+1907,Taylor Spencer,Wells Group School
+1908,Rodney Beck PhD,"Patton, Wilson and Weber School"
+1909,Elizabeth Mann,"Thomas, Shelton and Rivera School"
+1910,Mr. William Williams,Young Inc School
+1911,Matthew Cain MD,Edwards Group School
+1912,Kristen Romero,Brady-King School
+1913,Wanda Robinson,"Dunn, Garcia and Ward School"
+1914,Monica Bauer,Diaz-Patterson School
+1915,Karen Acosta,Johnson-Delgado School
+1916,Anthony Stafford,"Murphy, Smith and Hill School"
+1917,Thomas Wright,"Shaw, Dickerson and Roberts School"
+1918,Samantha Meyer,Spears-Moore School
+1919,Eric Kelley,Harris and Sons School
+1920,Richard Bernard,Walker-Anderson School
+1921,Jeremy Green,Dominguez-Jones School
+1922,Robert Wilson,"Murphy, Smith and Hill School"
+1923,Oscar Harper,Jackson Group School
+1924,Justin Strong,Brady-King School
+1925,Dr. Jonathan Smith,Roberts-Green School
+1926,Jennifer Kerr,Williams Ltd School
+1927,Jenny Kelley,Castillo-James School
+1928,Lindsey Andrews,King-Gomez School
+1929,Ryan Murray,Henderson-Schneider School
+1930,Miguel Nelson,Matthews Group School
+1931,George Rogers,Franco-Baker School
+1932,Kelli Burke,Strong and Sons School
+1933,William Booker,Walker-Anderson School
+1934,Benjamin Smith,Roach-Hartman School
+1935,Sarah Martinez,"Bonilla, Hart and Green School"
+1936,Rachel Johnson,Paul PLC School
+1937,James Reilly,"Hale, Thomas and Price School"
+1938,William Henry,Castillo-James School
+1939,Shawn Hill,Henderson-Schneider School
+1940,Jesse Mejia,Harris and Sons School
+1941,Louis Rojas,Gonzalez-Cole School
+1942,Janet Thomas,Ellis LLC School
+1943,Amy Hawkins,Medina-Cordova School
+1944,Erica Hayes,"Hale, Thomas and Price School"
+1945,Desiree Anderson,Leblanc-Nelson School
+1946,Mary Hart,"Murphy, Smith and Hill School"
+1947,Amy Jones,"Cox, Chavez and Davis School"
+1948,Tracy Graham,"Kelly, Ortiz and Carney School"
+1949,Julie Boone,Dominguez and Sons School
+1950,Joanne King MD,Young Inc School
+1951,Ryan Wheeler,"Kelly, Ortiz and Carney School"
+1952,Stephanie Jones,Smith Group School
+1953,Christina Hill,"Brooks, Thompson and Neal School"
+1954,Regina Ross,Paul PLC School
+1955,Alexandria Moss,George and Sons School
+1956,Brian Moreno,Choi-Glass School
+1957,Courtney Rodriguez,"Brown, Banks and Reyes School"
+1958,Kristen Moreno,Spears-Moore School
+1959,Ashley George,"Thomas, Barrera and Wiggins School"
+1960,Kevin West,Compton-Ross School
+1961,Jessica Brown,"Patton, Wilson and Weber School"
+1962,Lori Brady,Chaney Ltd School
+1963,Kristina Solis,Beck-Reyes School
+1964,John Clark,Beck-Reyes School
+1965,Brian Anderson,Spears-Moore School
+1966,Patrick Cruz,"Arellano, Lewis and Lawson School"
+1967,Benjamin Davis,Murray-Morales School
+1968,Melissa Adams,Boyd LLC School
+1969,Lisa Morrison,George and Sons School
+1970,Susan Thomas,"Brown, Banks and Reyes School"
+1971,Leslie Anderson MD,Davis-Hernandez School
+1972,Justin Schwartz,"Hamilton, Williams and Weaver School"
+1973,Russell Hughes,Shannon Inc School
+1974,Carl Hall,Gray and Sons School
+1975,Diana Rodriguez,Brandt-Rivera School
+1976,Kevin Sparks,Roach-Hartman School
+1977,Andrew Cowan,Jones PLC School
+1978,Tammie Chang,Morris-Bush School
+1979,John Rivera,Leblanc-Nelson School
+1980,John Patterson,Berry-Edwards School
+1981,Robert Simpson,Castillo-James School
+1982,Charles Hardy,Davis-Hernandez School
+1983,Richard Little,Williams-Harris School
+1984,Larry Walsh,Davis-Hernandez School
+1985,Jennifer Moses,Bird-Larsen School
+1986,Eric Smith,Beck-Reyes School
+1987,William Marshall,Jackson Group School
+1988,Ethan Blankenship,Johnson-Johnson School
+1989,Kimberly Simmons,Castillo-James School
+1990,Matthew Murphy,Martinez Ltd School
+1991,Mr. Carl Frey Jr.,Compton-Ross School
+1992,Timothy Porter,Duke-Waller School
+1993,Kelly Frazier,Velasquez-Zamora School
+1994,Todd Quinn,Edwards Group School
+1995,Bobby Miller,Dominguez-Jones School
+1996,Rhonda Duffy,"Cox, Chavez and Davis School"
+1997,Kimberly Berg,Brady-King School
+1998,David Freeman,Cummings PLC School
+1999,Angel Fitzgerald,Cunningham and Sons School
