@@ -1,213 +1,109 @@
-import sys
-import os
+from dotenv import load_dotenv
+load_dotenv()
+import streamlit as st
+import pandas as pd
+import sys, os
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'src')))
 
-import streamlit as st
-import pandas as pd
-from process_data import detect_churn
+from enrichment_serp import find_linkedin
+from detector import detect_change
 
-# -------------------------
-# PAGE CONFIG
-# -------------------------
-st.set_page_config(page_title="Toddle Churn System", layout="wide")
+st.set_page_config(page_title="School Change Detector", layout="wide")
+st.title("🎓 School Change Detector — LinkedIn via SerpAPI")
 
-# 🎨 STYLE
-st.markdown("""
-<style>
-.stMetric {
-    background-color: #f5f7fa;
-    padding: 15px;
-    border-radius: 10px;
-}
-</style>
-""", unsafe_allow_html=True)
-
-st.title("🚀 Toddle Churn Detection Dashboard")
-
-# -------------------------
-# LOAD DATA
-# -------------------------
-churned = detect_churn()
-
-if churned is None or len(churned) == 0:
-    st.warning("No data found.")
+# ── API key check ──────────────────────────────────────────────────────────────
+if not os.getenv("SCALESERP_API_KEY"):
+    st.error(
+        "❌ SCALESERP_API_KEY not found. "
+        "Add it in Streamlit Cloud → Settings → Secrets as:\n\n"
+        "`SCALESERP_API_KEY = 'your_key_here'`"
+    )
     st.stop()
 
-# -------------------------
-# EXTRA FIELDS
-# -------------------------
-churned["contact_email"] = churned["person_id"].apply(lambda x: f"user{x}@gmail.com")
-churned["phone"] = churned["person_id"].apply(lambda x: f"+91-98{x:08d}")
-churned["linkedin_url"] = churned["name"].apply(
-    lambda x: f"https://www.linkedin.com/in/{x.lower().replace(' ', '-')}"
+# ── File upload ────────────────────────────────────────────────────────────────
+file = st.file_uploader("Upload Excel (.xlsx)", type=["xlsx"])
+
+if not file:
+    st.info("👆 Upload an Excel file with columns: Name (or First/Last Name) + School/Company")
+    st.stop()
+
+df = pd.read_excel(file)
+df.columns = df.columns.str.strip().str.lower()
+
+# ── Resolve NAME column ────────────────────────────────────────────────────────
+if "full name" in df.columns:
+    df["name"] = df["full name"]
+elif "name" in df.columns:
+    df["name"] = df["name"]
+elif "first name" in df.columns and "last name" in df.columns:
+    df["name"] = df["first name"].astype(str).str.strip() + " " + df["last name"].astype(str).str.strip()
+else:
+    st.error("❌ Name column not found. Expected: 'Full Name', 'Name', or 'First Name' + 'Last Name'")
+    st.stop()
+
+# ── Resolve SCHOOL column ──────────────────────────────────────────────────────
+school_col = next(
+    (c for c in df.columns if any(k in c for k in ("school", "company", "organisation", "organization", "institution"))),
+    None
 )
-churned["status"] = churned["is_toddle_customer"].apply(
-    lambda x: "🔴 Non-Toddle" if x == "No" else "🟢 Toddle"
-)
+if not school_col:
+    st.error("❌ School/Company column not found. Expected a column containing 'school', 'company', or 'organisation'.")
+    st.stop()
 
-# -------------------------
-# FILTERS
-# -------------------------
-st.sidebar.header("🔍 Filters")
+df["school"] = df[school_col]
 
-status_filter = st.sidebar.selectbox(
-    "Filter by Status",
-    ["All", "🔴 Non-Toddle", "🟢 Toddle"]
-)
+st.success(f"✅ Loaded **{len(df)} records** — Name column: `{school_col}` | School column: `{school_col}`")
 
-search_name = st.sidebar.text_input("Search by Name")
+# ── Process ────────────────────────────────────────────────────────────────────
+results = []
+progress = st.progress(0, text="Starting…")
 
-filtered_df = churned.copy()
+for i, (_, row) in enumerate(df.iterrows()):
+    name   = str(row["name"]).strip()
+    school = str(row["school"]).split(";")[0].strip()
 
-if status_filter != "All":
-    filtered_df = filtered_df[filtered_df["status"] == status_filter]
+    progress.progress((i + 1) / len(df), text=f"Processing {i+1}/{len(df)}: {name}")
 
-if search_name:
-    filtered_df = filtered_df[
-        filtered_df["name"].str.contains(search_name, case=False)
-    ]
+    profile     = find_linkedin(name, school)
+    new_school  = profile["current_school"]
+    status      = detect_change(school, new_school)
 
-# -------------------------
-# 🔥 KPI CARDS
-# -------------------------
-col1, col2, col3 = st.columns(3)
+    results.append({
+        "Name":          name,
+        "Input School":  school,
+        "Current School (LinkedIn)": new_school,
+        "Status":        status,
+        "LinkedIn URL":  profile["linkedin"],
+    })
 
-total = len(churned)
-churn_count = (churned["is_toddle_customer"] == "No").sum()
-toddle_count = total - churn_count
+progress.empty()
+out = pd.DataFrame(results)
 
-# -------------------------
-# 🔥 INSIGHT
-# -------------------------
-action_df = filtered_df[filtered_df["is_toddle_customer"] == "No"]
+# ── Metrics ────────────────────────────────────────────────────────────────────
+c1, c2, c3, c4 = st.columns(4)
+c1.metric("Total",     len(out))
+c2.metric("✅ Same",    len(out[out["Status"] == "Same"]))
+c3.metric("🔄 Changed", len(out[out["Status"] == "Changed"]))
+c4.metric("❓ Not Found", len(out[out["Status"] == "Not Found"]))
 
-if not action_df.empty:
-    top_school = action_df["new_school"].value_counts().idxmax()
-    st.info(f"🔥 Most teachers moved to: {top_school}")
-
-# -------------------------
-# MAIN TABLE
-# -------------------------
-st.subheader("📊 Teacher Movement Tracking")
+# ── Colour-coded table ─────────────────────────────────────────────────────────
+def colour_status(val):
+    return {
+        "Changed":   "background-color: #ffd6d6; color: #900",
+        "Same":      "background-color: #d6f5d6; color: #060",
+        "Not Found": "background-color: #f0f0f0; color: #555",
+    }.get(val, "")
 
 st.dataframe(
-    filtered_df[
-        [
-            "person_id",
-            "name",
-            "old_school",
-            "new_school",
-            "status",
-            "contact_email",
-            "phone",
-            "linkedin_url"
-        ]
-    ],
-    use_container_width=True
+    out.style.applymap(colour_status, subset=["Status"]) if hasattr(out.style, "applymap") else out.style.map(colour_status, subset=["Status"]),
+    use_container_width=True,
 )
 
-# ====================================================
-# 🎯 FOLLOW-UP TRACKER (🔥 UNIQUE FEATURE)
-# ====================================================
-if "contacted_ids" not in st.session_state:
-    st.session_state.contacted_ids = set()
-
-# ====================================================
-# 🎯 CONTACT PANEL
-# ====================================================
-st.markdown("---")
-st.subheader("🎯 Contact Non-Toddle Teacher")
-
-if action_df.empty:
-    st.success("No Non-Toddle teachers 🎉")
-
-else:
-    colA, colB = st.columns([1, 2])
-
-    # LEFT
-    with colA:
-        ids = action_df["person_id"].astype(int).unique().tolist()
-        selected_id = st.selectbox("Select S. No", ids)
-
-        teacher = action_df[action_df["person_id"] == selected_id].iloc[0]
-
-    # RIGHT
-    with colB:
-        st.markdown("### 📌 Change Notice")
-        st.warning(
-            f"{teacher['name']} moved from "
-            f"**{teacher['old_school']} → {teacher['new_school']}**"
-        )
-
-        st.markdown("### 👤 Details")
-        st.write(f"📧 {teacher['contact_email']}")
-        st.write(f"📞 {teacher['phone']}")
-        st.markdown(f"[🔗 LinkedIn]({teacher['linkedin_url']})")
-
-        # -------------------------
-        # FOLLOW-UP STATUS
-        # -------------------------
-        if teacher["person_id"] in st.session_state.contacted_ids:
-            st.success("✔️ Already Contacted")
-        else:
-            st.warning("⏳ Not Contacted Yet")
-
-        if st.button("✅ Mark as Contacted"):
-            st.session_state.contacted_ids.add(teacher["person_id"])
-
-        # -------------------------
-        # MESSAGE
-        # -------------------------
-        def generate_message(name, old_school, new_school):
-            return f"""Hi {name},
-
-We noticed your move from {old_school} to {new_school}.
-
-We’d love to support you with Toddle.
-
-Best regards,
-Toddle Team"""
-
-        msg = generate_message(
-            teacher["name"],
-            teacher["old_school"],
-            teacher["new_school"]
-        )
-
-        st.markdown("### 📩 Outreach Message")
-        st.text_area("Message", msg, height=130)
-
-        # -------------------------
-        # CONTACT BUTTONS
-        # -------------------------
-        st.markdown("### 📬 Contact")
-
-        col1, col2, col3, col4 = st.columns(4)
-
-        with col1:
-            st.button("📧 Email")
-
-        with col2:
-            phone_num = teacher["phone"].replace("+", "").replace("-", "")
-            st.markdown(f"[📱 WhatsApp](https://wa.me/{phone_num})")
-
-        with col3:
-            st.button("📞 Call")
-
-        with col4:
-            st.markdown(f"[🔗 LinkedIn]({teacher['linkedin_url']})")
-
-# -------------------------
-# INFO
-# -------------------------
-st.markdown("---")
-
-st.subheader("🧠 System Design")
-
-st.write("""
-- Detects when teachers move to non-Toddle schools
-- Highlights action-required users
-- Provides direct outreach tools
-- Tracks follow-up status (CRM-like feature)
-""")
+# ── Download ───────────────────────────────────────────────────────────────────
+st.download_button(
+    "⬇️ Download CSV",
+    out.to_csv(index=False),
+    "school_change_results.csv",
+    mime="text/csv",
+)

@@ -1,3 +1,5 @@
-pandas
-faker
 streamlit
+pandas
+requests
+python-dotenv
+openpyxl
